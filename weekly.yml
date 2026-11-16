@@ -1,0 +1,38 @@
+name: Weekly storylines report
+
+on:
+  schedule:
+    # Monday morning: matchups preview for the week ahead.
+    - cron: "0 12 * * 1"
+    # Weekly honors (Player/Freshman of the Week) usually post Monday
+    # evening through Tuesday, so re-run to pick them up as they appear.
+    # Each run rebuilds the same week's report, so it just updates in place.
+    - cron: "0 23 * * 1"   # Monday ~7pm ET
+    - cron: "0 14 * * 2"   # Tuesday ~10am ET
+    - cron: "0 22 * * 2"   # Tuesday ~6pm ET
+    - cron: "0 14 * * 3"   # Wednesday catch-all for late conferences
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run weekly report
+        run: python fetch_weekly_report.py
+
+      - name: Commit results
+        run: |
+          git config user.name "courtside-kiki-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/reports data/raw
+          git diff --cached --quiet || git commit -m "Weekly report $(date -u +%Y-%m-%d)"
+          git push
