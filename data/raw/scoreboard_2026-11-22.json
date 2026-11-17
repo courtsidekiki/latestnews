@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "382fc0e91b6e558089af83c807d2bab9",
+  "inputMD5Sum": "16f22f72e7e509db07b6f2e954a8bd0b",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-16 19:47:55",
+  "updated_at": "2026-11-17 04:50:47",
   "games": [
     {
       "game": {
@@ -45,6 +45,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "acc"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "12:00 PM ET",
+        "startTimeEpoch": "1795366800",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679289",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Florida",
+        "url": "/game/6679289",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "FLA",
+            "short": "Florida",
+            "seo": "florida",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "3",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
             }
           ]
         },
@@ -129,7 +185,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "5",
+          "rank": "4",
           "conferences": [
             {
               "conferenceName": "",
@@ -320,7 +376,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "3",
+          "rank": "5",
           "conferences": [
             {
               "conferenceName": "",
@@ -376,7 +432,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "20",
+          "rank": "21",
           "conferences": [
             {
               "conferenceName": "",
@@ -453,6 +509,62 @@
     },
     {
       "game": {
+        "gameID": "6679290",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Texas",
+        "url": "/game/6679290",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "TEXAS",
+            "short": "Texas",
+            "seo": "texas",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "15",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "2:30 PM ET",
+        "startTimeEpoch": "1795375800",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
         "gameID": "6625847",
         "away": {
           "score": "",
@@ -488,7 +600,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "23",
+          "rank": "20",
           "conferences": [
             {
               "conferenceName": "",
@@ -723,6 +835,118 @@
         "liveVideoEnabled": false,
         "startTime": "4:00 PM ET",
         "startTimeEpoch": "1795381200",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679291",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Kentucky",
+        "url": "/game/6679291",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "UK",
+            "short": "Kentucky",
+            "seo": "kentucky",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "6",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "5:00 PM ET",
+        "startTimeEpoch": "1795384800",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679292",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Vanderbilt",
+        "url": "/game/6679292",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "VANDY",
+            "short": "Vanderbilt",
+            "seo": "vanderbilt",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "14",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:30 PM ET",
+        "startTimeEpoch": "1795393800",
         "gameState": "pre",
         "startDate": "11/22/2026",
         "currentPeriod": "",

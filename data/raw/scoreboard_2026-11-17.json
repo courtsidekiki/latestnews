@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "32af37edf2f8994de7b5460b37c7c474",
+  "inputMD5Sum": "92ed967076637ea224e950db629156a7",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-16 19:47:53",
+  "updated_at": "2026-11-17 04:50:44",
   "games": [
     {
       "game": {
@@ -208,7 +208,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "22",
+          "rank": "23",
           "conferences": [
             {
               "conferenceName": "",
@@ -241,7 +241,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "25",
+          "rank": "",
           "conferences": [
             {
               "conferenceName": "",
@@ -600,7 +600,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "10",
+          "rank": "7",
           "conferences": [
             {
               "conferenceName": "",
@@ -857,7 +857,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "19",
+          "rank": "18",
           "conferences": [
             {
               "conferenceName": "",
@@ -913,7 +913,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "18",
+          "rank": "22",
           "conferences": [
             {
               "conferenceName": "",
@@ -1160,7 +1160,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "",
+          "rank": "25",
           "conferences": [
             {
               "conferenceName": "",

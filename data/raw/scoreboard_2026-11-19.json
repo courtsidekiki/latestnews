@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "f03d3a5593263114b1c947ef10c0249b",
+  "inputMD5Sum": "322fb41f307751bcfebd6a7fb41877cd",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-16 19:47:54",
+  "updated_at": "2026-11-17 04:50:16",
   "games": [
     {
       "game": {
@@ -397,6 +397,62 @@
     },
     {
       "game": {
+        "gameID": "6679256",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "TARLET",
+            "short": "Tarleton St.",
+            "seo": "tarleton-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "uac-"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Tarleton St. Central Ark.",
+        "url": "/game/6679256",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "C ARK",
+            "short": "Central Ark.",
+            "seo": "central-ark",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "uac-"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "4:00 PM ET",
+        "startTimeEpoch": "1795122000",
+        "gameState": "pre",
+        "startDate": "11/19/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
         "gameID": "6679248",
         "away": {
           "score": "",
@@ -773,6 +829,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "asun"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:00 PM ET",
+        "startTimeEpoch": "1795132800",
+        "gameState": "pre",
+        "startDate": "11/19/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679257",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "TX ARL",
+            "short": "UT Arlington",
+            "seo": "texas-arlington",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "uac-"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "UT Arlington Abilene Christian",
+        "url": "/game/6679257",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "ABILCH",
+            "short": "Abilene Christian",
+            "seo": "abilene-christian",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "uac-"
             }
           ]
         },
@@ -1272,7 +1384,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "7",
+          "rank": "10",
           "conferences": [
             {
               "conferenceName": "",

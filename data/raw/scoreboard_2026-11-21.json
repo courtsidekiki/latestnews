@@ -1,8 +1,176 @@
 {
-  "inputMD5Sum": "4006d097fdcf67e2395b541a4ac5e8ab",
+  "inputMD5Sum": "22867cabbb5e2a0ec184b8867a0760fd",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-16 19:47:55",
+  "updated_at": "2026-11-17 04:50:46",
   "games": [
+    {
+      "game": {
+        "gameID": "6679293",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Mississippi St.",
+        "url": "/game/6679293",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MISSST",
+            "short": "Mississippi St.",
+            "seo": "mississippi-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "12:00 PM ET",
+        "startTimeEpoch": "1795280400",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679259",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Dayton",
+        "url": "/game/6679259",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "DAYTON",
+            "short": "Dayton",
+            "seo": "dayton",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "atlantic-10"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "1:00 PM ET",
+        "startTimeEpoch": "1795284000",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679294",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Tennessee",
+        "url": "/game/6679294",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "TENN",
+            "short": "Tennessee",
+            "seo": "tennessee",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "11",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "2:30 PM ET",
+        "startTimeEpoch": "1795289400",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
     {
       "game": {
         "gameID": "6624592",
@@ -152,7 +320,7 @@
           "winner": false,
           "seed": "",
           "description": "",
-          "rank": "7",
+          "rank": "10",
           "conferences": [
             {
               "conferenceName": "",
@@ -331,6 +499,118 @@
         "liveVideoEnabled": false,
         "startTime": "3:00 PM ET",
         "startTimeEpoch": "1795291200",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679260",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Saint Louis",
+        "url": "/game/6679260",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "ST LOU",
+            "short": "Saint Louis",
+            "seo": "saint-louis",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "atlantic-10"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "3:30 PM ET",
+        "startTimeEpoch": "1795293000",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679273",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Toledo",
+        "url": "/game/6679273",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "TOLEDO",
+            "short": "Toledo",
+            "seo": "toledo",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "mac"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "4:00 PM ET",
+        "startTimeEpoch": "1795294800",
         "gameState": "pre",
         "startDate": "11/21/2026",
         "currentPeriod": "",
@@ -549,6 +829,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "big-12"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "5:00 PM ET",
+        "startTimeEpoch": "1795298400",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679295",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Texas A&M",
+        "url": "/game/6679295",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "TX A&M",
+            "short": "Texas A&M",
+            "seo": "texas-am",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "19",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
             }
           ]
         },
@@ -947,6 +1283,118 @@
         "liveVideoEnabled": false,
         "startTime": "7:00 PM ET",
         "startTimeEpoch": "1795305600",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679274",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Bowling Green",
+        "url": "/game/6679274",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "BGSU",
+            "short": "Bowling Green",
+            "seo": "bowling-green",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "mac"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:00 PM ET",
+        "startTimeEpoch": "1795305600",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679296",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Missouri",
+        "url": "/game/6679296",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MIZZOU",
+            "short": "Missouri",
+            "seo": "missouri",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:30 PM ET",
+        "startTimeEpoch": "1795307400",
         "gameState": "pre",
         "startDate": "11/21/2026",
         "currentPeriod": "",

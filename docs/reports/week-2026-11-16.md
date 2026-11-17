@@ -2,11 +2,11 @@
 
 ## 🔥 Marquee Matchups (Top 25 vs. Top 25)
 
-- **#13 Purdue @ #22 Indiana** — 2026-11-17
-- **#19 Minnesota @ #1 Nebraska** — 2026-11-17
-- **#18 Washington @ #12 Oregon** — 2026-11-17
+- **#13 Purdue @ #23 Indiana** — 2026-11-17
+- **#18 Minnesota @ #1 Nebraska** — 2026-11-17
+- **#22 Washington @ #12 Oregon** — 2026-11-17
 - **#8 Arizona St. @ #17 TCU** — 2026-11-20
-- **#8 Arizona St. @ #23 Baylor** — 2026-11-22
+- **#8 Arizona St. @ #20 Baylor** — 2026-11-22
 
 ## ⚔️ Rivalry Games
 
@@ -16,23 +16,23 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 - **Cincinnati @ Iowa St.** — 2026-11-16
     - Sydney Nolan — Kills Per Set: 4.92
-- **#13 Purdue @ #22 Indiana** — 2026-11-17
+- **#13 Purdue @ #23 Indiana** — 2026-11-17
     - Taylor Anderson — Assists Per Set: 10.79
 - **Lindenwood @ Western Ill.** — 2026-11-17
     - Kaci Johnson — Assists Per Set: 10.79
 - **Maryland @ Ohio St.** — 2026-11-17
     - Sara Toth — Assists Per Set: 10.66
-- **Rutgers @ #10 Penn St.** — 2026-11-17
+- **Rutgers @ #7 Penn St.** — 2026-11-17
     - Kennedy Martin — Kills Per Set: 5.57
     - Alexis Stucky — Assists Per Set: 10.74
 - **Quinnipiac @ Sacred Heart** — 2026-11-17
     - Abbie Hagedorn — Aces Per Set: .56
 - **Northwestern @ #9 Wisconsin** — 2026-11-17
     - Charlie Fuerbringer — Assists Per Set: 11.29
-- **#19 Minnesota @ #1 Nebraska** — 2026-11-17
+- **#18 Minnesota @ #1 Nebraska** — 2026-11-17
     - Bergen Reilly — Assists Per Set: 11.67
     - Mckenna Wucherer — Kills Per Set: 5.11
-- **#18 Washington @ #12 Oregon** — 2026-11-17
+- **#22 Washington @ #12 Oregon** — 2026-11-17
     - Marina Crownover — Assists Per Set: 10.64
 - **Utah St. @ Fresno St.** — 2026-11-17
     - Jenna Legault — Aces Per Set: .59
@@ -60,14 +60,30 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Breylan Fairley (FR) — Aces Per Set: .50
 - **Marshall @ Troy** — 2026-11-20
     - Kalina Calvillo — Aces Per Set: .52
-- **Western Ky. @ FIU** — 2026-11-20
+- **Ole Miss @ Georgia** — 2026-11-20
+    - Bianna Muoneke — Kills Per Set: 5.45
+- **FIU @ Western Ky.** — 2026-11-20
     - Kate Rush — Aces Per Set: .53
+- **George Mason @ George Washington** — 2026-11-20
+    - Kiera Hamilton — Kills Per Set: 5.12
+- **Central Conn. St. @ LIU** — 2026-11-20
+    - Sara van Gisteren — Kills Per Set: 4.94
+- **McNeese @ UTRGV** — 2026-11-20
+    - Ema Petkovic — Aces Per Set: .65
+- **Oklahoma @ Arkansas** — 2026-11-20
+    - Avaya Maga — Assists Per Set: 11.48
 - **UNC Asheville @ Gardner-Webb** — 2026-11-20
     - Sarah Wadsworth — Aces Per Set: .53
 - **TBA @ Col. of Charleston** — 2026-11-20
     - Helena Vukovic — Aces Per Set: .60
 - **TBA @ UNC Greensboro** — 2026-11-20
     - Allie Sweet — Kills Per Set: 5.92
+- **Duquesne @ Loyola Chicago** — 2026-11-20
+    - Mya Ball — Aces Per Set: .55
+    - Chloe Wilmot — Assists Per Set: 10.55
+    - Emersen Schrom — Aces Per Set: .52
+- **South Carolina @ LSU** — 2026-11-20
+    - Jurnee Robinson — Kills Per Set: 5.73
 - **Georgia Tech @ Clemson** — 2026-11-20
     - Alida Bennour (FR) — Kills Per Set: 4.93
     - Alida Bennour (FR) — Aces Per Set: .53
@@ -75,12 +91,12 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Charlee Solomon — Assists Per Set: 10.52
 - **TBA @ American** — 2026-11-20
     - Deniz Dakak — Assists Per Set: 10.65
-- **West Virginia @ #14 Kansas** — 2026-11-20
+- **West Virginia @ #16 Kansas** — 2026-11-20
     - Taylor Stanley (FR) — Kills Per Set: 5.16
     - Reese Messer — Assists Per Set: 10.80
-- **Miami (FL) @ #20 North Carolina** — 2026-11-20
+- **Miami (FL) @ #21 North Carolina** — 2026-11-20
     - Ariana Rodriguez — Aces Per Set: .51
-- **#5 SMU @ Virginia Tech** — 2026-11-20
+- **#4 SMU @ Virginia Tech** — 2026-11-20
     - Suli Davis — Kills Per Set: 5.16
     - Hannah Beauford (FR) — Assists Per Set: 10.73
 - **#2 Pittsburgh @ Virginia** — 2026-11-20
@@ -88,9 +104,11 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Izzy Starck — Assists Per Set: 10.59
 - **TBA @ Lipscomb** — 2026-11-20
     - Kelsey Schenck — Assists Per Set: 10.83
+- **Harvard @ Yale** — 2026-11-20
+    - Sofia Rossi — Aces Per Set: .54
 - **Colorado @ Houston** — 2026-11-20
     - Ana Burilovic — Kills Per Set: 5.03
-- **Iowa St. @ #23 Baylor** — 2026-11-20
+- **Iowa St. @ #20 Baylor** — 2026-11-20
     - Ksenia Rakhmanchik — Kills Per Set: 5.56
 - **Norfolk St. @ Morgan St.** — 2026-11-20
     - Gabrielle Gilbert — Aces Per Set: .55
@@ -103,7 +121,10 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Audrey Ross — Kills Per Set: 4.94
 - **Syracuse @ #24 Stanford** — 2026-11-20
     - Logan Parks — Assists Per Set: 10.63
-- **Cincinnati @ #7 BYU** — 2026-11-21
+- **TBA @ #11 Tennessee** — 2026-11-21
+    - Kennedi Rogers — Kills Per Set: 4.89
+    - Caroline Kerr — Assists Per Set: 10.95
+- **Cincinnati @ #10 BYU** — 2026-11-21
     - Sydney Nolan — Kills Per Set: 4.92
 - **TBA @ Wright St.** — 2026-11-21
     - Lauren Yacobucci — Assists Per Set: 11.01
@@ -111,6 +132,8 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Macy Hinshaw — Assists Per Set: 10.92
 - **San Francisco @ Saint Mary's (CA)** — 2026-11-21
     - Antonie Kelnárová — Aces Per Set: .58
+- **TBA @ #19 Texas A&M** — 2026-11-21
+    - Kyndal Stowers — Kills Per Set: 5.06
 - **Cal Poly @ California Baptist** — 2026-11-21
     - Kendall Beshear — Aces Per Set: .51
 - **Sacramento St. @ CSUN** — 2026-11-21
@@ -121,24 +144,34 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **#2 Pittsburgh @ Virginia Tech** — 2026-11-22
     - Olivia Babcock — Kills Per Set: 6.06
     - Izzy Starck — Assists Per Set: 10.59
+- **TBA @ #3 Florida** — 2026-11-22
+    - Taylor Parks — Assists Per Set: 10.52
 - **Miami (FL) @ Duke** — 2026-11-22
     - Ariana Rodriguez — Aces Per Set: .51
-- **#5 SMU @ Virginia** — 2026-11-22
+- **#4 SMU @ Virginia** — 2026-11-22
     - Suli Davis — Kills Per Set: 5.16
     - Hannah Beauford (FR) — Assists Per Set: 10.73
 - **Colorado @ UCF** — 2026-11-22
     - Natasha Casey (FR) — Aces Per Set: .70
     - Ana Burilovic — Kills Per Set: 5.03
-- **#8 Arizona St. @ #23 Baylor** — 2026-11-22
+- **TBA @ #15 Texas** — 2026-11-22
+    - Torrey Stafford — Kills Per Set: 4.87
+- **#8 Arizona St. @ #20 Baylor** — 2026-11-22
     - Ksenia Rakhmanchik — Kills Per Set: 5.56
 - **West Virginia @ Kansas St.** — 2026-11-22
     - Addison Massey (FR) — Kills Per Set: 4.88
 - **Boston College @ #24 Stanford** — 2026-11-22
     - Logan Parks — Assists Per Set: 10.63
     - Audrey Ross — Kills Per Set: 4.94
+- **TBA @ #6 Kentucky** — 2026-11-22
+    - Brooklyn DeLeye — Kills Per Set: 5.26
+    - Kassie O'Brien — Assists Per Set: 11.83
+    - Brooklyn DeLeye — Aces Per Set: .52
+- **TBA @ #14 Vanderbilt** — 2026-11-22
+    - Avery Scoggins — Assists Per Set: 11.46
 
 ## 🏅 Conference Honors (for last week's play)
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-16 19:48 UTC_
+_Generated 2026-11-17 04:51 UTC_
