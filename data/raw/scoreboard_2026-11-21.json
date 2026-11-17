@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "22867cabbb5e2a0ec184b8867a0760fd",
+  "inputMD5Sum": "06154b3e07b1851159d93da681f5855c",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-17 04:50:46",
+  "updated_at": "2026-11-17 21:58:41",
   "games": [
     {
       "game": {
@@ -107,6 +107,62 @@
         "liveVideoEnabled": false,
         "startTime": "1:00 PM ET",
         "startTimeEpoch": "1795284000",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679337",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "XAVIER",
+            "short": "Xavier",
+            "seo": "xavier",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-east"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Xavier Creighton",
+        "url": "/game/6679337",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "CREIGH",
+            "short": "Creighton",
+            "seo": "creighton",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-east"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "2:00 PM ET",
+        "startTimeEpoch": "1795287600",
         "gameState": "pre",
         "startDate": "11/21/2026",
         "currentPeriod": "",
@@ -611,6 +667,62 @@
         "liveVideoEnabled": false,
         "startTime": "4:00 PM ET",
         "startTimeEpoch": "1795294800",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679338",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "DEPAUL",
+            "short": "DePaul",
+            "seo": "depaul",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-east"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "DePaul Marquette",
+        "url": "/game/6679338",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MARQ",
+            "short": "Marquette",
+            "seo": "marquette",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-east"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "4:30 PM ET",
+        "startTimeEpoch": "1795296600",
         "gameState": "pre",
         "startDate": "11/21/2026",
         "currentPeriod": "",

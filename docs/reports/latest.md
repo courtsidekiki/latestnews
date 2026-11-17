@@ -128,6 +128,10 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Sydney Nolan — Kills Per Set: 4.92
 - **TBA @ Wright St.** — 2026-11-21
     - Lauren Yacobucci — Assists Per Set: 11.01
+- **DePaul @ Marquette** — 2026-11-21
+    - Carson Tyler — Kills Per Set: 5.50
+    - Carson Tyler — Aces Per Set: .63
+    - Leonor Polezzi — Aces Per Set: .56
 - **Santa Clara @ Pacific** — 2026-11-21
     - Macy Hinshaw — Assists Per Set: 10.92
 - **San Francisco @ Saint Mary's (CA)** — 2026-11-21
@@ -174,4 +178,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-17 04:51 UTC_
+_Generated 2026-11-17 21:58 UTC_

@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "16f22f72e7e509db07b6f2e954a8bd0b",
+  "inputMD5Sum": "05a2941ad65ba03c2d4a9fb69d6d202a",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-17 04:50:47",
+  "updated_at": "2026-11-17 21:58:42",
   "games": [
     {
       "game": {
@@ -845,6 +845,62 @@
     },
     {
       "game": {
+        "gameID": "6679378",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "ND ST",
+            "short": "North Dakota St.",
+            "seo": "north-dakota-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "summit-league"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "North Dakota St. Omaha",
+        "url": "/game/6679378",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "OMAHA",
+            "short": "Omaha",
+            "seo": "neb-omaha",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "summit-league"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "4:00 PM ET",
+        "startTimeEpoch": "1795381200",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
         "gameID": "6679291",
         "away": {
           "score": "",
@@ -891,6 +947,62 @@
         "liveVideoEnabled": false,
         "startTime": "5:00 PM ET",
         "startTimeEpoch": "1795384800",
+        "gameState": "pre",
+        "startDate": "11/22/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679379",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "KC",
+            "short": "Kansas City",
+            "seo": "umkc",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "summit-league"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Kansas City St. Thomas (MN)",
+        "url": "/game/6679379",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "STTHOM",
+            "short": "St. Thomas (MN)",
+            "seo": "st-thomas-mn",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "summit-league"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:00 PM ET",
+        "startTimeEpoch": "1795392000",
         "gameState": "pre",
         "startDate": "11/22/2026",
         "currentPeriod": "",
