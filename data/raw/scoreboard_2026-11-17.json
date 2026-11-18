@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "6aed40b4acf64d20780715fa008321a2",
+  "inputMD5Sum": "431f45cf2d5157ddd18e014590ee936a",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-18 03:17:20",
+  "updated_at": "2026-11-18 21:42:37",
   "games": [
     {
       "game": {
@@ -865,19 +865,19 @@
             }
           ]
         },
-        "finalMessage": "4TH SET",
+        "finalMessage": "FINAL",
         "title": "Minnesota Nebraska",
         "url": "/game/6624860",
         "network": "",
         "home": {
-          "score": "2",
+          "score": "3",
           "names": {
             "char6": "NEB",
             "short": "Nebraska",
             "seo": "nebraska",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "1",
@@ -891,9 +891,9 @@
         "liveVideoEnabled": false,
         "startTime": "8:30 PM ET",
         "startTimeEpoch": "1794965400",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "4TH SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -921,19 +921,19 @@
             }
           ]
         },
-        "finalMessage": "3RD SET",
+        "finalMessage": "FINAL",
         "title": "Washington Oregon",
         "url": "/game/6625300",
         "network": "",
         "home": {
-          "score": "2",
+          "score": "3",
           "names": {
             "char6": "OREGN",
             "short": "Oregon",
             "seo": "oregon",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "12",
@@ -947,9 +947,9 @@
         "liveVideoEnabled": false,
         "startTime": "9:00 PM ET",
         "startTimeEpoch": "1794967200",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "3RD SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -959,14 +959,14 @@
       "game": {
         "gameID": "6626224",
         "away": {
-          "score": "2",
+          "score": "3",
           "names": {
             "char6": "UT ST",
             "short": "Utah St.",
             "seo": "utah-st",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -977,7 +977,7 @@
             }
           ]
         },
-        "finalMessage": "3RD SET",
+        "finalMessage": "FINAL",
         "title": "Utah St. Fresno St.",
         "url": "/game/6626224",
         "network": "",
@@ -1003,9 +1003,9 @@
         "liveVideoEnabled": false,
         "startTime": "9:00 PM ET",
         "startTimeEpoch": "1794967200",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "3RD SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -1015,7 +1015,7 @@
       "game": {
         "gameID": "6627988",
         "away": {
-          "score": "0",
+          "score": "1",
           "names": {
             "char6": "SDSU",
             "short": "San Diego St.",
@@ -1033,19 +1033,19 @@
             }
           ]
         },
-        "finalMessage": "3RD SET",
+        "finalMessage": "FINAL",
         "title": "San Diego St. Oregon St.",
         "url": "/game/6627988",
         "network": "",
         "home": {
-          "score": "2",
+          "score": "3",
           "names": {
             "char6": "ORE ST",
             "short": "Oregon St.",
             "seo": "oregon-st",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -1059,9 +1059,9 @@
         "liveVideoEnabled": false,
         "startTime": "9:00 PM ET",
         "startTimeEpoch": "1794967200",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "3RD SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -1089,19 +1089,19 @@
             }
           ]
         },
-        "finalMessage": "4TH SET",
+        "finalMessage": "FINAL",
         "title": "Boise St. Washington St.",
         "url": "/game/6628367",
         "network": "",
         "home": {
-          "score": "2",
+          "score": "3",
           "names": {
             "char6": "WASHST",
             "short": "Washington St.",
             "seo": "washington-st",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -1115,9 +1115,9 @@
         "liveVideoEnabled": false,
         "startTime": "9:00 PM ET",
         "startTimeEpoch": "1794967200",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "4TH SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -1127,7 +1127,7 @@
       "game": {
         "gameID": "6625964",
         "away": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "USC",
             "short": "Southern California",
@@ -1145,19 +1145,19 @@
             }
           ]
         },
-        "finalMessage": "",
+        "finalMessage": "FINAL",
         "title": "Southern California UCLA",
         "url": "/game/6625964",
         "network": "",
         "home": {
-          "score": "",
+          "score": "3",
           "names": {
             "char6": "UCLA",
             "short": "UCLA",
             "seo": "ucla",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "25",
@@ -1171,9 +1171,9 @@
         "liveVideoEnabled": false,
         "startTime": "10:30 PM ET",
         "startTimeEpoch": "1794972600",
-        "gameState": "pre",
+        "gameState": "final",
         "startDate": "11/17/2026",
-        "currentPeriod": "",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""

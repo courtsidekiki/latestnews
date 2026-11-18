@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Points Per Set",
-  "updated": "Monday, November 16, 2026 9:11 am - Through games Sunday, November 15, 2026",
+  "updated": "Wednesday, November 18, 2026 9:11 am - Through games Tuesday, November 17, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -68,11 +68,11 @@
       "Cl": "Sr.",
       "Height": "6-6",
       "Position": "RS",
-      "S": "92",
-      "Kills": "447",
+      "S": "95",
+      "Kills": "462",
       "Aces": "25",
       "Block Solos": "3",
-      "Block Assists": "75",
+      "Block Assists": "78",
       "Per Set": "5.57"
     },
     {
@@ -189,20 +189,6 @@
     },
     {
       "Rank": "14",
-      "Name": "Mckenna Wucherer",
-      "Team": "Minnesota",
-      "Cl": "Sr.",
-      "Height": "6-1",
-      "Position": "OH",
-      "S": "87",
-      "Kills": "372",
-      "Aces": "43",
-      "Block Solos": "2",
-      "Block Assists": "55",
-      "Per Set": "5.11"
-    },
-    {
-      "Rank": "15",
       "Name": "Kyndal Stowers",
       "Team": "Texas A&M",
       "Cl": "Jr.",
@@ -214,6 +200,20 @@
       "Block Solos": "3",
       "Block Assists": "39",
       "Per Set": "5.06"
+    },
+    {
+      "Rank": "15",
+      "Name": "Mckenna Wucherer",
+      "Team": "Minnesota",
+      "Cl": "Sr.",
+      "Height": "6-1",
+      "Position": "OH",
+      "S": "91",
+      "Kills": "386",
+      "Aces": "44",
+      "Block Solos": "2",
+      "Block Assists": "55",
+      "Per Set": "5.05"
     },
     {
       "Rank": "16",
@@ -231,6 +231,20 @@
     },
     {
       "Rank": "17",
+      "Name": "Sydney Nolan",
+      "Team": "Cincinnati",
+      "Cl": "Sr.",
+      "Height": "6-4",
+      "Position": "OH",
+      "S": "85",
+      "Kills": "386",
+      "Aces": "23",
+      "Block Solos": "5",
+      "Block Assists": "21",
+      "Per Set": "4.99"
+    },
+    {
+      "Rank": "18",
       "Name": "Sara van Gisteren",
       "Team": "LIU",
       "Cl": "Sr.",
@@ -244,7 +258,7 @@
       "Per Set": "4.94"
     },
     {
-      "Rank": "18",
+      "Rank": "19",
       "Name": "Audrey Ross",
       "Team": "Boston College",
       "Cl": "Sr.",
@@ -258,7 +272,7 @@
       "Per Set": "4.94"
     },
     {
-      "Rank": "19",
+      "Rank": "20",
       "Name": "Alida Bennour",
       "Team": "Georgia Tech",
       "Cl": "Fr.",
@@ -270,20 +284,6 @@
       "Block Solos": "3",
       "Block Assists": "82",
       "Per Set": "4.93"
-    },
-    {
-      "Rank": "20",
-      "Name": "Sydney Nolan",
-      "Team": "Cincinnati",
-      "Cl": "Sr.",
-      "Height": "6-4",
-      "Position": "OH",
-      "S": "80",
-      "Kills": "357",
-      "Aces": "21",
-      "Block Solos": "5",
-      "Block Assists": "21",
-      "Per Set": "4.92"
     },
     {
       "Rank": "21",
@@ -581,20 +581,6 @@
     },
     {
       "Rank": "42",
-      "Name": "Ella Demetrician",
-      "Team": "Michigan",
-      "Cl": "Jr.",
-      "Height": "6-2",
-      "Position": "OH",
-      "S": "101",
-      "Kills": "426",
-      "Aces": "19",
-      "Block Solos": "7",
-      "Block Assists": "25",
-      "Per Set": "4.60"
-    },
-    {
-      "Rank": "43",
       "Name": "Sydney Jones",
       "Team": "Houston",
       "Cl": "Jr.",
@@ -606,6 +592,20 @@
       "Block Solos": "1",
       "Block Assists": "17",
       "Per Set": "4.59"
+    },
+    {
+      "Rank": "43",
+      "Name": "AC Froehlich",
+      "Team": "Oregon St.",
+      "Cl": "Sr.",
+      "Height": "6-1",
+      "Position": "OH",
+      "S": "93",
+      "Kills": "385",
+      "Aces": "21",
+      "Block Solos": "6",
+      "Block Assists": "28",
+      "Per Set": "4.58"
     },
     {
       "Rank": "44",
@@ -651,6 +651,20 @@
     },
     {
       "Rank": "47",
+      "Name": "Ella Demetrician",
+      "Team": "Michigan",
+      "Cl": "Jr.",
+      "Height": "6-2",
+      "Position": "OH",
+      "S": "105",
+      "Kills": "437",
+      "Aces": "20",
+      "Block Solos": "7",
+      "Block Assists": "25",
+      "Per Set": "4.54"
+    },
+    {
+      "Rank": "48",
       "Name": "Ally Cordes",
       "Team": "Samford",
       "Cl": "Sr.",
@@ -664,7 +678,7 @@
       "Per Set": "4.54"
     },
     {
-      "Rank": "48",
+      "Rank": "49",
       "Name": "Emersen Schrom",
       "Team": "Duquesne",
       "Cl": "Jr.",
@@ -678,32 +692,18 @@
       "Per Set": "4.54"
     },
     {
-      "Rank": "49",
-      "Name": "Chloe Smith",
-      "Team": "Wofford",
-      "Cl": "Jr.",
-      "Height": "6-1",
-      "Position": "OH",
-      "S": "110",
-      "Kills": "427",
-      "Aces": "46",
-      "Block Solos": "9",
-      "Block Assists": "31",
-      "Per Set": "4.52"
-    },
-    {
       "Rank": "50",
-      "Name": "Avah Armour",
-      "Team": "UCF",
+      "Name": "Akira Burt",
+      "Team": "Georgia St.",
       "Cl": "Sr.",
-      "Height": "6-5",
-      "Position": "OH",
-      "S": "92",
-      "Kills": "367",
-      "Aces": "20",
-      "Block Solos": "8",
-      "Block Assists": "42",
-      "Per Set": "4.52"
+      "Height": "5-10",
+      "Position": "MB",
+      "S": "107",
+      "Kills": "418",
+      "Aces": "21",
+      "Block Solos": "6",
+      "Block Assists": "79",
+      "Per Set": "4.53"
     }
   ]
 }

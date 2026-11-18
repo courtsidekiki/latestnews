@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "d1cfda7327ba1ce872af84bc726b713d",
+  "inputMD5Sum": "84c730cf9243d0cedc8e7747d5bb7c68",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-18 03:18:19",
+  "updated_at": "2026-11-18 21:42:39",
   "games": [
     {
       "game": {
@@ -269,6 +269,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "southland"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "11:00 AM ET",
+        "startTimeEpoch": "1795190400",
+        "gameState": "pre",
+        "startDate": "11/20/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679354",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "USC",
+            "short": "Southern California",
+            "seo": "southern-california",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Southern California Michigan",
+        "url": "/game/6679354",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MICH",
+            "short": "Michigan",
+            "seo": "michigan",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
             }
           ]
         },
@@ -555,6 +611,62 @@
         "liveVideoEnabled": false,
         "startTime": "12:00 PM ET",
         "startTimeEpoch": "1795194000",
+        "gameState": "pre",
+        "startDate": "11/20/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679355",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "MD",
+            "short": "Maryland",
+            "seo": "maryland",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Maryland Washington",
+        "url": "/game/6679355",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "WASH",
+            "short": "Washington",
+            "seo": "washington",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "1:00 PM ET",
+        "startTimeEpoch": "1795197600",
         "gameState": "pre",
         "startDate": "11/20/2026",
         "currentPeriod": "",
@@ -1241,9 +1353,9 @@
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "BUCKNL",
+            "short": "Bucknell",
+            "seo": "bucknell",
             "full": ""
           },
           "winner": false,
@@ -1253,12 +1365,12 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "patriot"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA Lehigh",
+        "title": "Bucknell Lehigh",
         "url": "/game/6679179",
         "network": "",
         "home": {
@@ -1389,6 +1501,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "cusa"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "3:00 PM ET",
+        "startTimeEpoch": "1795204800",
+        "gameState": "pre",
+        "startDate": "11/20/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679356",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "RUTGER",
+            "short": "Rutgers",
+            "seo": "rutgers",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Rutgers Michigan St.",
+        "url": "/game/6679356",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MICHST",
+            "short": "Michigan St.",
+            "seo": "michigan-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
             }
           ]
         },
@@ -2361,9 +2529,9 @@
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "COLGAT",
+            "short": "Colgate",
+            "seo": "colgate",
             "full": ""
           },
           "winner": false,
@@ -2373,12 +2541,12 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "patriot"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA American",
+        "title": "Colgate American",
         "url": "/game/6679180",
         "network": "",
         "home": {

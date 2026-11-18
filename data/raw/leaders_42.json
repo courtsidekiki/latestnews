@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Aces Per Set",
-  "updated": "Monday, November 16, 2026 9:11 am - Through games Sunday, November 15, 2026",
+  "updated": "Wednesday, November 18, 2026 9:11 am - Through games Tuesday, November 17, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -67,8 +67,8 @@
       "Cl": "Sr.",
       "Height": "6-0",
       "Position": "OH",
-      "S": "90",
-      "Aces": "53",
+      "S": "93",
+      "Aces": "55",
       "Per Set": ".59"
     },
     {
@@ -95,17 +95,6 @@
     },
     {
       "Rank": "9",
-      "Name": "Abbie Hagedorn",
-      "Team": "Sacred Heart",
-      "Cl": "So.",
-      "Height": "5-11",
-      "Position": "OH",
-      "S": "111",
-      "Aces": "62",
-      "Per Set": ".56"
-    },
-    {
-      "Rank": "10",
       "Name": "Leonor Polezzi",
       "Team": "DePaul",
       "Cl": "Sr.",
@@ -116,7 +105,7 @@
       "Per Set": ".56"
     },
     {
-      "Rank": "11",
+      "Rank": "10",
       "Name": "Gabrielle Gilbert",
       "Team": "Norfolk St.",
       "Cl": "Sr.",
@@ -127,7 +116,7 @@
       "Per Set": ".55"
     },
     {
-      "Rank": "12",
+      "Rank": "11",
       "Name": "Mya Ball",
       "Team": "Loyola Chicago",
       "Cl": "So.",
@@ -138,7 +127,7 @@
       "Per Set": ".55"
     },
     {
-      "Rank": "13",
+      "Rank": "12",
       "Name": "Sofia Rossi",
       "Team": "Harvard",
       "Cl": "So.",
@@ -146,6 +135,17 @@
       "Position": "OH",
       "S": "68",
       "Aces": "37",
+      "Per Set": ".54"
+    },
+    {
+      "Rank": "13",
+      "Name": "Abbie Hagedorn",
+      "Team": "Sacred Heart",
+      "Cl": "So.",
+      "Height": "5-11",
+      "Position": "OH",
+      "S": "116",
+      "Aces": "63",
       "Per Set": ".54"
     },
     {
@@ -282,6 +282,17 @@
     },
     {
       "Rank": "-",
+      "Name": "Maya Harris",
+      "Team": "Illinois",
+      "Cl": "Fr.",
+      "Height": "6-0",
+      "Position": "OH",
+      "S": "102",
+      "Aces": "51",
+      "Per Set": ".50"
+    },
+    {
+      "Rank": "-",
       "Name": "Addie Huber",
       "Team": "Loyola Maryland",
       "Cl": "So.",
@@ -303,7 +314,7 @@
       "Per Set": ".50"
     },
     {
-      "Rank": "28",
+      "Rank": "29",
       "Name": "Hannah Parant",
       "Team": "Alabama",
       "Cl": "Jr.",
@@ -311,17 +322,6 @@
       "Position": "S",
       "S": "91",
       "Aces": "45",
-      "Per Set": ".49"
-    },
-    {
-      "Rank": "29",
-      "Name": "Mckenna Wucherer",
-      "Team": "Minnesota",
-      "Cl": "Sr.",
-      "Height": "6-1",
-      "Position": "OH",
-      "S": "87",
-      "Aces": "43",
       "Per Set": ".49"
     },
     {
@@ -348,13 +348,13 @@
     },
     {
       "Rank": "32",
-      "Name": "Maya Harris",
-      "Team": "Illinois",
-      "Cl": "Fr.",
-      "Height": "6-0",
+      "Name": "Mckenna Wucherer",
+      "Team": "Minnesota",
+      "Cl": "Sr.",
+      "Height": "6-1",
       "Position": "OH",
-      "S": "98",
-      "Aces": "47",
+      "S": "91",
+      "Aces": "44",
       "Per Set": ".48"
     },
     {
@@ -535,17 +535,6 @@
     },
     {
       "Rank": "49",
-      "Name": "McKenna Garr",
-      "Team": "Minnesota",
-      "Cl": "So.",
-      "Height": "5-7",
-      "Position": "L/DS",
-      "S": "87",
-      "Aces": "39",
-      "Per Set": ".45"
-    },
-    {
-      "Rank": "50",
       "Name": "Panna Ratkai",
       "Team": "Hawaii",
       "Cl": "Sr.",
@@ -553,6 +542,17 @@
       "Position": "OH",
       "S": "96",
       "Aces": "43",
+      "Per Set": ".45"
+    },
+    {
+      "Rank": "50",
+      "Name": "Jazen Debina",
+      "Team": "Cleveland St.",
+      "Cl": "Jr.",
+      "Height": "6-0",
+      "Position": "MB",
+      "S": "85",
+      "Aces": "38",
       "Per Set": ".45"
     }
   ]

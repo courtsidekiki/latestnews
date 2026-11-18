@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "06154b3e07b1851159d93da681f5855c",
+  "inputMD5Sum": "bd7af3effa0987478d902ee7e5781f31",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-18 03:18:20",
+  "updated_at": "2026-11-18 21:42:40",
   "games": [
     {
       "game": {
@@ -45,6 +45,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "12:00 PM ET",
+        "startTimeEpoch": "1795280400",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679351",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "UCLA",
+            "short": "UCLA",
+            "seo": "ucla",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "UCLA Indiana",
+        "url": "/game/6679351",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "IND",
+            "short": "Indiana",
+            "seo": "indiana",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
             }
           ]
         },
@@ -157,6 +213,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "big-east"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "2:00 PM ET",
+        "startTimeEpoch": "1795287600",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679352",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Purdue",
+        "url": "/game/6679352",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "PURDUE",
+            "short": "Purdue",
+            "seo": "purdue",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
             }
           ]
         },
@@ -1181,6 +1293,62 @@
     },
     {
       "game": {
+        "gameID": "6679353",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Illinois",
+        "url": "/game/6679353",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "ILL",
+            "short": "Illinois",
+            "seo": "illinois",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "6:00 PM ET",
+        "startTimeEpoch": "1795302000",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
         "gameID": "6624520",
         "away": {
           "score": "",
@@ -1507,6 +1675,62 @@
         "liveVideoEnabled": false,
         "startTime": "7:30 PM ET",
         "startTimeEpoch": "1795307400",
+        "gameState": "pre",
+        "startDate": "11/21/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679357",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Minnesota",
+        "url": "/game/6679357",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "MINN",
+            "short": "Minnesota",
+            "seo": "minnesota",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "8:00 PM ET",
+        "startTimeEpoch": "1795309200",
         "gameState": "pre",
         "startDate": "11/21/2026",
         "currentPeriod": "",
