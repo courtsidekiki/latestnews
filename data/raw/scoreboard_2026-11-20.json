@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "8f351a07096d25a09f43f2af8cb1588d",
+  "inputMD5Sum": "d1cfda7327ba1ce872af84bc726b713d",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-17 21:58:40",
+  "updated_at": "2026-11-18 03:18:19",
   "games": [
     {
       "game": {
@@ -9,9 +9,9 @@
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "SACHRT",
+            "short": "Sacred Heart",
+            "seo": "sacred-heart",
             "full": ""
           },
           "winner": false,
@@ -21,12 +21,12 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "metro"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA Fairfield",
+        "title": "Sacred Heart Fairfield",
         "url": "/game/6679172",
         "network": "",
         "home": {
@@ -65,9 +65,9 @@
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "SIENA",
+            "short": "Siena",
+            "seo": "siena",
             "full": ""
           },
           "winner": false,
@@ -77,12 +77,12 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "metro"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA Marist",
+        "title": "Siena Marist",
         "url": "/game/6679173",
         "network": "",
         "home": {

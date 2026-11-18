@@ -55,6 +55,8 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **Santa Clara @ Saint Mary's (CA)** — 2026-11-19
     - Antonie Kelnárová — Aces Per Set: .58
     - Macy Hinshaw — Assists Per Set: 10.92
+- **Sacred Heart @ Fairfield** — 2026-11-20
+    - Abbie Hagedorn — Aces Per Set: .56
 - **N.C. Central @ Delaware St.** — 2026-11-20
     - Shalyn Bell — Aces Per Set: .59
     - Breylan Fairley (FR) — Aces Per Set: .50
@@ -178,4 +180,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-17 21:58 UTC_
+_Generated 2026-11-18 03:18 UTC_
