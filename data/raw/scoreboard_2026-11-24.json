@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "c1164d638cbf3cc0def8a1dcd19ccedd",
+  "inputMD5Sum": "9215cf03bf1bdacf1adf392e7cce80f3",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-23 23:31:24",
+  "updated_at": "2026-11-24 06:34:51",
   "games": [
     {
       "game": {
@@ -341,13 +341,13 @@
     },
     {
       "game": {
-        "gameID": "6679375",
+        "gameID": "6679282",
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "UGA",
+            "short": "Georgia",
+            "seo": "georgia",
             "full": ""
           },
           "winner": false,
@@ -357,12 +357,68 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "sec"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA South Dakota",
+        "title": "Georgia Kentucky",
+        "url": "/game/6679282",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "UK",
+            "short": "Kentucky",
+            "seo": "kentucky",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "5",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "sec"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:00 PM ET",
+        "startTimeEpoch": "1795564800",
+        "gameState": "pre",
+        "startDate": "11/24/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679375",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "SDAKST",
+            "short": "South Dakota St.",
+            "seo": "south-dakota-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "summit-league"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "South Dakota St. South Dakota",
         "url": "/game/6679375",
         "network": "",
         "home": {
@@ -453,6 +509,62 @@
     },
     {
       "game": {
+        "gameID": "6679487",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "MOREST",
+            "short": "Morehead St.",
+            "seo": "morehead-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "ovc"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Morehead St. Southeast Mo. St.",
+        "url": "/game/6679487",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "SEMO",
+            "short": "Southeast Mo. St.",
+            "seo": "southeast-mo-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "ovc"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "7:00 PM ET",
+        "startTimeEpoch": "1795564800",
+        "gameState": "pre",
+        "startDate": "11/24/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
         "gameID": "6679342",
         "away": {
           "score": "",
@@ -499,6 +611,62 @@
         "liveVideoEnabled": false,
         "startTime": "8:00 PM ET",
         "startTimeEpoch": "1795568400",
+        "gameState": "pre",
+        "startDate": "11/24/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679382",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "WEB ST",
+            "short": "Weber St.",
+            "seo": "weber-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-sky"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Weber St. Utah Tech",
+        "url": "/game/6679382",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "UTTECH",
+            "short": "Utah Tech",
+            "seo": "utah-tech",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-sky"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "9:00 PM ET",
+        "startTimeEpoch": "1795572000",
         "gameState": "pre",
         "startDate": "11/24/2026",
         "currentPeriod": "",

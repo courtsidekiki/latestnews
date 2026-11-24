@@ -43,8 +43,14 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **Belmont @ UNI** — 2026-11-24
     - Cassidy Hartman — Kills Per Set: 4.88
     - Reese Booth — Assists Per Set: 10.53
-- **TBA @ South Dakota** — 2026-11-24
+- **Georgia @ #5 Kentucky** — 2026-11-24
+    - Brooklyn DeLeye — Kills Per Set: 5.24
+    - Kassie O'Brien — Assists Per Set: 11.92
+    - Brooklyn DeLeye — Aces Per Set: .50
+    - Bianna Muoneke — Kills Per Set: 5.54
+- **South Dakota St. @ South Dakota** — 2026-11-24
     - Avery Van Hook — Assists Per Set: 10.52
+    - Sylvie Zgonc — Kills Per Set: 5.30
 - **#8 Wisconsin @ #7 Penn St.** — 2026-11-24
     - Kennedy Martin — Kills Per Set: 5.64
     - Alexis Stucky — Assists Per Set: 10.91
@@ -106,4 +112,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-23 23:31 UTC_
+_Generated 2026-11-24 06:35 UTC_
