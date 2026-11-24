@@ -1,9 +1,9 @@
 {
   "sport": "Women's Volleyball",
   "title": "Aces Per Set",
-  "updated": "Monday, November 23, 2026 9:11 am - Through games Sunday, November 22, 2026",
+  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
   "page": 1,
-  "pages": 3,
+  "pages": 4,
   "data": [
     {
       "Rank": "1",
@@ -183,6 +183,17 @@
     },
     {
       "Rank": "17",
+      "Name": "Gabi Zachariasen",
+      "Team": "South Dakota",
+      "Cl": "Fr.",
+      "Height": "6-0",
+      "Position": "OH",
+      "S": "89",
+      "Aces": "46",
+      "Per Set": ".52"
+    },
+    {
+      "Rank": "18",
       "Name": "Kalina Calvillo",
       "Team": "Troy",
       "Cl": "Jr.",
@@ -193,7 +204,7 @@
       "Per Set": ".52"
     },
     {
-      "Rank": "18",
+      "Rank": "19",
       "Name": "Emma Isroff",
       "Team": "Canisius",
       "Cl": "Jr.",
@@ -204,7 +215,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "19",
+      "Rank": "20",
       "Name": "Kate Rush",
       "Team": "Western Ky.",
       "Cl": "So.",
@@ -215,7 +226,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "20",
+      "Rank": "21",
       "Name": "Ava Poinsett",
       "Team": "Yale",
       "Cl": "So.",
@@ -226,7 +237,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "21",
+      "Rank": "22",
       "Name": "Kennedy Louisell",
       "Team": "James Madison",
       "Cl": "Sr.",
@@ -237,18 +248,7 @@
       "Per Set": ".50"
     },
     {
-      "Rank": "22",
-      "Name": "Brooklyn DeLeye",
-      "Team": "Kentucky",
-      "Cl": "Sr.",
-      "Height": "6-2",
-      "Position": "OH",
-      "S": "90",
-      "Aces": "45",
-      "Per Set": ".50"
-    },
-    {
-      "Rank": "-",
+      "Rank": "23",
       "Name": "Addie Huber",
       "Team": "Loyola Maryland",
       "Cl": "So.",
@@ -304,6 +304,17 @@
     },
     {
       "Rank": "28",
+      "Name": "Brooklyn DeLeye",
+      "Team": "Kentucky",
+      "Cl": "Sr.",
+      "Height": "6-2",
+      "Position": "OH",
+      "S": "93",
+      "Aces": "46",
+      "Per Set": ".49"
+    },
+    {
+      "Rank": "29",
       "Name": "Ines Losada",
       "Team": "Colorado",
       "Cl": "So.",
@@ -314,7 +325,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "29",
+      "Rank": "30",
       "Name": "Tekoa Barnes",
       "Team": "Oklahoma",
       "Cl": "So.",
@@ -325,7 +336,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "30",
+      "Rank": "31",
       "Name": "Maya Harris",
       "Team": "Illinois",
       "Cl": "Fr.",
@@ -336,7 +347,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "31",
+      "Rank": "32",
       "Name": "Jeryn Hildenbrand",
       "Team": "Portland",
       "Cl": "So.",
@@ -347,7 +358,7 @@
       "Per Set": ".48"
     },
     {
-      "Rank": "32",
+      "Rank": "33",
       "Name": "Ariana Rodriguez",
       "Team": "Miami (FL)",
       "Cl": "Sr.",
@@ -358,7 +369,7 @@
       "Per Set": ".48"
     },
     {
-      "Rank": "33",
+      "Rank": "34",
       "Name": "Gabriella Burdier",
       "Team": "Central Conn. St.",
       "Cl": "So.",
@@ -377,17 +388,6 @@
       "Position": "S",
       "S": "96",
       "Aces": "46",
-      "Per Set": ".48"
-    },
-    {
-      "Rank": "35",
-      "Name": "Gabi Zachariasen",
-      "Team": "South Dakota",
-      "Cl": "Fr.",
-      "Height": "6-0",
-      "Position": "OH",
-      "S": "86",
-      "Aces": "41",
       "Per Set": ".48"
     },
     {

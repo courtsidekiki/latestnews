@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "5629e3fe9ef0a93c6e9e420b1aae1424",
+  "inputMD5Sum": "a601ee0a7ab74b446dcd7d9c9eb952aa",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-24 06:34:12",
+  "updated_at": "2026-11-24 23:20:05",
   "games": [
     {
       "game": {
@@ -81,7 +81,7 @@
             }
           ]
         },
-        "finalMessage": "2ND SET",
+        "finalMessage": "FINAL",
         "title": "Portland St. Northern Colo.",
         "url": "/game/6679384",
         "network": "",
@@ -93,7 +93,7 @@
             "seo": "northern-colo",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -107,9 +107,9 @@
         "liveVideoEnabled": false,
         "startTime": "3:00 PM ET",
         "startTimeEpoch": "1795464000",
-        "gameState": "live",
+        "gameState": "final",
         "startDate": "11/23/2026",
-        "currentPeriod": "2ND SET",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""

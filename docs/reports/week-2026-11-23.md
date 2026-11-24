@@ -18,21 +18,21 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 ## 👀 Players & Freshmen to Watch
 
 - **North Dakota St. @ South Dakota** — 2026-11-23
-    - Avery Van Hook — Assists Per Set: 10.52
+    - Gabi Zachariasen (FR) — Aces Per Set: .52
 - **Georgia @ #11 Tennessee** — 2026-11-23
-    - Caroline Kerr — Assists Per Set: 10.93
-    - Bianna Muoneke — Kills Per Set: 5.54
+    - Kennedi Rogers — Kills Per Set: 4.96
+    - Caroline Kerr — Assists Per Set: 10.95
+    - Bianna Muoneke — Kills Per Set: 5.62
 - **St. Thomas (MN) @ South Dakota St.** — 2026-11-23
     - Sylvie Zgonc — Kills Per Set: 5.30
 - **Morehead St. @ Lindenwood** — 2026-11-23
-    - Kaci Johnson — Assists Per Set: 10.88
+    - Kaci Johnson — Assists Per Set: 10.89
 - **#14 Vanderbilt @ #5 Kentucky** — 2026-11-23
-    - Brooklyn DeLeye — Kills Per Set: 5.24
-    - Kassie O'Brien — Assists Per Set: 11.92
-    - Brooklyn DeLeye — Aces Per Set: .50
+    - Brooklyn DeLeye — Kills Per Set: 5.26
+    - Kassie O'Brien — Assists Per Set: 11.95
     - Avery Scoggins — Assists Per Set: 11.52
 - **San Diego @ Santa Clara** — 2026-11-23
-    - Macy Hinshaw — Assists Per Set: 10.88
+    - Macy Hinshaw — Assists Per Set: 10.82
 - **#12 Purdue @ #1 Nebraska** — 2026-11-24
     - Bergen Reilly — Assists Per Set: 11.81
     - Taylor Anderson — Assists Per Set: 10.85
@@ -41,15 +41,13 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Olivia Babcock — Kills Per Set: 6.02
     - Izzy Starck — Assists Per Set: 10.70
 - **Belmont @ UNI** — 2026-11-24
-    - Cassidy Hartman — Kills Per Set: 4.88
     - Reese Booth — Assists Per Set: 10.53
 - **Georgia @ #5 Kentucky** — 2026-11-24
-    - Brooklyn DeLeye — Kills Per Set: 5.24
-    - Kassie O'Brien — Assists Per Set: 11.92
-    - Brooklyn DeLeye — Aces Per Set: .50
-    - Bianna Muoneke — Kills Per Set: 5.54
+    - Brooklyn DeLeye — Kills Per Set: 5.26
+    - Kassie O'Brien — Assists Per Set: 11.95
+    - Bianna Muoneke — Kills Per Set: 5.62
 - **South Dakota St. @ South Dakota** — 2026-11-24
-    - Avery Van Hook — Assists Per Set: 10.52
+    - Gabi Zachariasen (FR) — Aces Per Set: .52
     - Sylvie Zgonc — Kills Per Set: 5.30
 - **#8 Wisconsin @ #7 Penn St.** — 2026-11-24
     - Kennedy Martin — Kills Per Set: 5.64
@@ -69,7 +67,7 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **#20 Baylor @ West Virginia** — 2026-11-25
     - Ksenia Rakhmanchik — Kills Per Set: 5.41
 - **Denver @ Santa Clara** — 2026-11-25
-    - Macy Hinshaw — Assists Per Set: 10.88
+    - Macy Hinshaw — Assists Per Set: 10.82
 - **#16 Kansas @ Arizona** — 2026-11-25
     - Taylor Stanley (FR) — Kills Per Set: 5.19
     - Reese Messer — Assists Per Set: 10.86
@@ -112,4 +110,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-24 06:35 UTC_
+_Generated 2026-11-24 23:21 UTC_

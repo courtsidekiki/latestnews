@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "2c37d704e3eacc204097df704786ce32",
+  "inputMD5Sum": "09020d26c712458fe134d59790db1162",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-24 06:35:13",
+  "updated_at": "2026-11-24 23:20:14",
   "games": [
     {
       "game": {
@@ -717,6 +717,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "wcc"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "5:00 PM ET",
+        "startTimeEpoch": "1795644000",
+        "gameState": "pre",
+        "startDate": "11/25/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679417",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "",
+            "short": "TBA",
+            "seo": "tba",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": ""
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "TBA Hawaii",
+        "url": "/game/6679417",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "HAWAII",
+            "short": "Hawaii",
+            "seo": "hawaii",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "mountain-west"
             }
           ]
         },

@@ -1,20 +1,20 @@
 {
-  "inputMD5Sum": "9215cf03bf1bdacf1adf392e7cce80f3",
+  "inputMD5Sum": "a25be4dbed7cc2bc8b7f059b3b92e90a",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-24 06:34:51",
+  "updated_at": "2026-11-24 23:19:56",
   "games": [
     {
       "game": {
         "gameID": "6628205",
         "away": {
-          "score": "",
+          "score": "3",
           "names": {
             "char6": "FSU",
             "short": "Florida St.",
             "seo": "florida-st",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -25,12 +25,12 @@
             }
           ]
         },
-        "finalMessage": "",
+        "finalMessage": "FINAL",
         "title": "Florida St. Clemson",
         "url": "/game/6628205",
         "network": "",
         "home": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "CLEM",
             "short": "Clemson",
@@ -51,9 +51,9 @@
         "liveVideoEnabled": false,
         "startTime": "2:00 PM ET",
         "startTimeEpoch": "1795546800",
-        "gameState": "pre",
+        "gameState": "final",
         "startDate": "11/24/2026",
-        "currentPeriod": "",
+        "currentPeriod": "FINAL",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -63,7 +63,7 @@
       "game": {
         "gameID": "6679418",
         "away": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "N MEX",
             "short": "New Mexico",
@@ -81,19 +81,19 @@
             }
           ]
         },
-        "finalMessage": "",
+        "finalMessage": "FINAL",
         "title": "New Mexico Hawaii",
         "url": "/game/6679418",
         "network": "",
         "home": {
-          "score": "",
+          "score": "3",
           "names": {
             "char6": "HAWAII",
             "short": "Hawaii",
             "seo": "hawaii",
             "full": ""
           },
-          "winner": false,
+          "winner": true,
           "seed": "",
           "description": "",
           "rank": "",
@@ -107,9 +107,65 @@
         "liveVideoEnabled": false,
         "startTime": "4:00 PM ET",
         "startTimeEpoch": "1795554000",
-        "gameState": "pre",
+        "gameState": "final",
         "startDate": "11/24/2026",
-        "currentPeriod": "",
+        "currentPeriod": "FINAL",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679574",
+        "away": {
+          "score": "1",
+          "names": {
+            "char6": "ORE ST",
+            "short": "Oregon St.",
+            "seo": "oregon-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
+            }
+          ]
+        },
+        "finalMessage": "3RD SET",
+        "title": "Oregon St. San Diego St.",
+        "url": "/game/6679574",
+        "network": "",
+        "home": {
+          "score": "1",
+          "names": {
+            "char6": "SDSU",
+            "short": "San Diego St.",
+            "seo": "san-diego-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "5:00 PM ET",
+        "startTimeEpoch": "1795557600",
+        "gameState": "live",
+        "startDate": "11/24/2026",
+        "currentPeriod": "3RD SET",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -119,7 +175,7 @@
       "game": {
         "gameID": "6679341",
         "away": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "PURDUE",
             "short": "Purdue",
@@ -137,12 +193,12 @@
             }
           ]
         },
-        "finalMessage": "",
+        "finalMessage": "1ST SET",
         "title": "Purdue Nebraska",
         "url": "/game/6679341",
         "network": "",
         "home": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "NEB",
             "short": "Nebraska",
@@ -163,9 +219,9 @@
         "liveVideoEnabled": false,
         "startTime": "6:00 PM ET",
         "startTimeEpoch": "1795561200",
-        "gameState": "pre",
+        "gameState": "live",
         "startDate": "11/24/2026",
-        "currentPeriod": "",
+        "currentPeriod": "1ST SET",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -175,30 +231,7 @@
       "game": {
         "gameID": "6679381",
         "away": {
-          "score": "",
-          "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
-            "full": ""
-          },
-          "winner": false,
-          "seed": "",
-          "description": "",
-          "rank": "",
-          "conferences": [
-            {
-              "conferenceName": "",
-              "conferenceSeo": ""
-            }
-          ]
-        },
-        "finalMessage": "",
-        "title": "TBA Idaho St.",
-        "url": "/game/6679381",
-        "network": "",
-        "home": {
-          "score": "",
+          "score": "0",
           "names": {
             "char6": "ID ST",
             "short": "Idaho St.",
@@ -216,12 +249,35 @@
             }
           ]
         },
+        "finalMessage": "1ST SET",
+        "title": "Idaho St. Northern Colo.",
+        "url": "/game/6679381",
+        "network": "",
+        "home": {
+          "score": "0",
+          "names": {
+            "char6": "N COLO",
+            "short": "Northern Colo.",
+            "seo": "northern-colo",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-sky"
+            }
+          ]
+        },
         "liveVideoEnabled": false,
         "startTime": "6:00 PM ET",
         "startTimeEpoch": "1795561200",
-        "gameState": "pre",
+        "gameState": "live",
         "startDate": "11/24/2026",
-        "currentPeriod": "",
+        "currentPeriod": "1ST SET",
         "contestClock": "0:00",
         "bracketId": "",
         "bracketRound": ""
@@ -605,6 +661,62 @@
             {
               "conferenceName": "",
               "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "8:00 PM ET",
+        "startTimeEpoch": "1795568400",
+        "gameState": "pre",
+        "startDate": "11/24/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679575",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "BOISE",
+            "short": "Boise St.",
+            "seo": "boise-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Boise St. Colorado St.",
+        "url": "/game/6679575",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "CO ST",
+            "short": "Colorado St.",
+            "seo": "colorado-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
             }
           ]
         },

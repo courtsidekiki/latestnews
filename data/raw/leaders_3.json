@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Assists Per Set",
-  "updated": "Monday, November 23, 2026 9:11 am - Through games Sunday, November 22, 2026",
+  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -12,9 +12,9 @@
       "Cl": "So.",
       "Height": "6-1",
       "Position": "S",
-      "S": "90",
-      "Assists": "1073",
-      "Per Set": "11.92"
+      "S": "93",
+      "Assists": "1111",
+      "Per Set": "11.95"
     },
     {
       "Rank": "2",
@@ -45,8 +45,8 @@
       "Cl": "Jr.",
       "Height": "6-0",
       "Position": "S",
-      "S": "89",
-      "Assists": "1025",
+      "S": "92",
+      "Assists": "1060",
       "Per Set": "11.52"
     },
     {
@@ -73,6 +73,17 @@
     },
     {
       "Rank": "7",
+      "Name": "Caroline Kerr",
+      "Team": "Tennessee",
+      "Cl": "Sr.",
+      "Height": "5-11",
+      "Position": "S",
+      "S": "99",
+      "Assists": "1084",
+      "Per Set": "10.95"
+    },
+    {
+      "Rank": "8",
       "Name": "Kelsey Schenck",
       "Team": "Lipscomb",
       "Cl": "Jr.",
@@ -80,17 +91,6 @@
       "Position": "S",
       "S": "96",
       "Assists": "1049",
-      "Per Set": "10.93"
-    },
-    {
-      "Rank": "8",
-      "Name": "Caroline Kerr",
-      "Team": "Tennessee",
-      "Cl": "Sr.",
-      "Height": "5-11",
-      "Position": "S",
-      "S": "94",
-      "Assists": "1027",
       "Per Set": "10.93"
     },
     {
@@ -106,6 +106,17 @@
     },
     {
       "Rank": "10",
+      "Name": "Kaci Johnson",
+      "Team": "Lindenwood",
+      "Cl": "Jr.",
+      "Height": "5-9",
+      "Position": "S",
+      "S": "106",
+      "Assists": "1154",
+      "Per Set": "10.89"
+    },
+    {
+      "Rank": "11",
       "Name": "Deniz Dakak",
       "Team": "American",
       "Cl": "Jr.",
@@ -116,29 +127,7 @@
       "Per Set": "10.88"
     },
     {
-      "Rank": "-",
-      "Name": "Kaci Johnson",
-      "Team": "Lindenwood",
-      "Cl": "Jr.",
-      "Height": "5-9",
-      "Position": "S",
-      "S": "101",
-      "Assists": "1099",
-      "Per Set": "10.88"
-    },
-    {
       "Rank": "12",
-      "Name": "Macy Hinshaw",
-      "Team": "Santa Clara",
-      "Cl": "Jr.",
-      "Height": "5-9",
-      "Position": "S",
-      "S": "113",
-      "Assists": "1229",
-      "Per Set": "10.88"
-    },
-    {
-      "Rank": "13",
       "Name": "Reese Messer",
       "Team": "Kansas",
       "Cl": "So.",
@@ -149,7 +138,7 @@
       "Per Set": "10.86"
     },
     {
-      "Rank": "14",
+      "Rank": "13",
       "Name": "Taylor Anderson",
       "Team": "Purdue",
       "Cl": "Sr.",
@@ -158,6 +147,17 @@
       "S": "100",
       "Assists": "1085",
       "Per Set": "10.85"
+    },
+    {
+      "Rank": "14",
+      "Name": "Macy Hinshaw",
+      "Team": "Santa Clara",
+      "Cl": "Jr.",
+      "Height": "5-9",
+      "Position": "S",
+      "S": "116",
+      "Assists": "1255",
+      "Per Set": "10.82"
     },
     {
       "Rank": "15",
@@ -260,17 +260,6 @@
     },
     {
       "Rank": "24",
-      "Name": "Avery Van Hook",
-      "Team": "South Dakota",
-      "Cl": "Sr.",
-      "Height": "5-9",
-      "Position": "S",
-      "S": "81",
-      "Assists": "852",
-      "Per Set": "10.52"
-    },
-    {
-      "Rank": "25",
       "Name": "Charlee Solomon",
       "Team": "Tulane",
       "Cl": "So.",
@@ -281,7 +270,7 @@
       "Per Set": "10.51"
     },
     {
-      "Rank": "26",
+      "Rank": "25",
       "Name": "Rachel Koss",
       "Team": "Abilene Christian",
       "Cl": "Sr.",
@@ -292,7 +281,7 @@
       "Per Set": "10.48"
     },
     {
-      "Rank": "27",
+      "Rank": "26",
       "Name": "Abbigail Pickard",
       "Team": "Northern Ky.",
       "Cl": "So.",
@@ -303,7 +292,7 @@
       "Per Set": "10.47"
     },
     {
-      "Rank": "28",
+      "Rank": "27",
       "Name": "Chloe Wilmot",
       "Team": "Duquesne",
       "Cl": "Sr.",
@@ -312,6 +301,17 @@
       "S": "116",
       "Assists": "1214",
       "Per Set": "10.47"
+    },
+    {
+      "Rank": "28",
+      "Name": "Avery Van Hook",
+      "Team": "South Dakota",
+      "Cl": "Sr.",
+      "Height": "5-9",
+      "Position": "S",
+      "S": "84",
+      "Assists": "879",
+      "Per Set": "10.46"
     },
     {
       "Rank": "29",
@@ -447,6 +447,17 @@
     },
     {
       "Rank": "41",
+      "Name": "Nerea Alvarez-Jorge",
+      "Team": "Northern Colo.",
+      "Cl": "Sr.",
+      "Height": "5-10",
+      "Position": "S",
+      "S": "118",
+      "Assists": "1212",
+      "Per Set": "10.27"
+    },
+    {
+      "Rank": "42",
       "Name": "Nayelis Cabello",
       "Team": "Louisville",
       "Cl": "Jr.",
@@ -457,7 +468,7 @@
       "Per Set": "10.25"
     },
     {
-      "Rank": "42",
+      "Rank": "43",
       "Name": "Erin Debiec",
       "Team": "Colorado St.",
       "Cl": "Jr.",
@@ -466,17 +477,6 @@
       "S": "91",
       "Assists": "931",
       "Per Set": "10.23"
-    },
-    {
-      "Rank": "43",
-      "Name": "Nerea Alvarez-Jorge",
-      "Team": "Northern Colo.",
-      "Cl": "Sr.",
-      "Height": "5-10",
-      "Position": "S",
-      "S": "113",
-      "Assists": "1153",
-      "Per Set": "10.20"
     },
     {
       "Rank": "44",
@@ -546,14 +546,14 @@
     },
     {
       "Rank": "50",
-      "Name": "Alison Ohlinger",
-      "Team": "Samford",
-      "Cl": "Fr.",
-      "Height": "5-11",
+      "Name": "Kylie Munday",
+      "Team": "San Diego",
+      "Cl": "Jr.",
+      "Height": "5-10",
       "Position": "S",
-      "S": "98",
-      "Assists": "989",
-      "Per Set": "10.09"
+      "S": "92",
+      "Assists": "930",
+      "Per Set": "10.11"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Points Per Set",
-  "updated": "Monday, November 23, 2026 9:11 am - Through games Sunday, November 22, 2026",
+  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -82,12 +82,12 @@
       "Cl": "Sr.",
       "Height": "6-0",
       "Position": "OH",
-      "S": "108",
-      "Kills": "546",
-      "Aces": "22",
+      "S": "113",
+      "Kills": "581",
+      "Aces": "23",
       "Block Solos": "0",
       "Block Assists": "61",
-      "Per Set": "5.54"
+      "Per Set": "5.62"
     },
     {
       "Rank": "7",
@@ -124,10 +124,10 @@
       "Cl": "Sr.",
       "Height": "5-11",
       "Position": "OH",
-      "S": "100",
-      "Kills": "482",
+      "S": "103",
+      "Kills": "497",
       "Aces": "25",
-      "Block Solos": "6",
+      "Block Solos": "7",
       "Block Assists": "34",
       "Per Set": "5.30"
     },
@@ -152,12 +152,12 @@
       "Cl": "Sr.",
       "Height": "6-2",
       "Position": "OH",
-      "S": "90",
-      "Kills": "405",
-      "Aces": "45",
+      "S": "93",
+      "Kills": "421",
+      "Aces": "46",
       "Block Solos": "6",
       "Block Assists": "32",
-      "Per Set": "5.24"
+      "Per Set": "5.26"
     },
     {
       "Rank": "12",
@@ -259,6 +259,20 @@
     },
     {
       "Rank": "19",
+      "Name": "Kennedi Rogers",
+      "Team": "Tennessee",
+      "Cl": "So.",
+      "Height": "5-10",
+      "Position": "OH",
+      "S": "93",
+      "Kills": "420",
+      "Aces": "15",
+      "Block Solos": "5",
+      "Block Assists": "42",
+      "Per Set": "4.96"
+    },
+    {
+      "Rank": "20",
       "Name": "Victoria Marthaler",
       "Team": "Sacramento St.",
       "Cl": "Jr.",
@@ -272,7 +286,7 @@
       "Per Set": "4.95"
     },
     {
-      "Rank": "20",
+      "Rank": "21",
       "Name": "Addison Massey",
       "Team": "Kansas St.",
       "Cl": "Fr.",
@@ -286,7 +300,7 @@
       "Per Set": "4.95"
     },
     {
-      "Rank": "21",
+      "Rank": "22",
       "Name": "Alida Bennour",
       "Team": "Georgia Tech",
       "Cl": "Fr.",
@@ -300,7 +314,7 @@
       "Per Set": "4.93"
     },
     {
-      "Rank": "22",
+      "Rank": "23",
       "Name": "Audrey Ross",
       "Team": "Boston College",
       "Cl": "Sr.",
@@ -314,7 +328,7 @@
       "Per Set": "4.91"
     },
     {
-      "Rank": "23",
+      "Rank": "24",
       "Name": "Torrey Stafford",
       "Team": "Texas",
       "Cl": "Sr.",
@@ -328,7 +342,7 @@
       "Per Set": "4.89"
     },
     {
-      "Rank": "24",
+      "Rank": "25",
       "Name": "Kaili Doctor",
       "Team": "North Florida",
       "Cl": "Sr.",
@@ -342,7 +356,7 @@
       "Per Set": "4.88"
     },
     {
-      "Rank": "25",
+      "Rank": "26",
       "Name": "Cassidy Hartman",
       "Team": "UNI",
       "Cl": "Sr.",
@@ -354,20 +368,6 @@
       "Block Solos": "7",
       "Block Assists": "45",
       "Per Set": "4.88"
-    },
-    {
-      "Rank": "26",
-      "Name": "Kennedi Rogers",
-      "Team": "Tennessee",
-      "Cl": "So.",
-      "Height": "5-10",
-      "Position": "OH",
-      "S": "88",
-      "Kills": "389",
-      "Aces": "13",
-      "Block Solos": "5",
-      "Block Assists": "41",
-      "Per Set": "4.86"
     },
     {
       "Rank": "27",
@@ -404,15 +404,29 @@
       "Cl": "Jr.",
       "Height": "6-2",
       "Position": "OH",
-      "S": "110",
-      "Kills": "470",
-      "Aces": "27",
+      "S": "113",
+      "Kills": "485",
+      "Aces": "28",
       "Block Solos": "9",
       "Block Assists": "46",
-      "Per Set": "4.81"
+      "Per Set": "4.82"
     },
     {
       "Rank": "30",
+      "Name": "Kalista Lukovich",
+      "Team": "Eastern Wash.",
+      "Cl": "Sr.",
+      "Height": "6-0",
+      "Position": "OH",
+      "S": "93",
+      "Kills": "394",
+      "Aces": "21",
+      "Block Solos": "13",
+      "Block Assists": "33",
+      "Per Set": "4.78"
+    },
+    {
+      "Rank": "31",
       "Name": "Becca Kelley",
       "Team": "TCU",
       "Cl": "Jr.",
@@ -424,20 +438,6 @@
       "Block Solos": "9",
       "Block Assists": "57",
       "Per Set": "4.77"
-    },
-    {
-      "Rank": "31",
-      "Name": "Kalista Lukovich",
-      "Team": "Eastern Wash.",
-      "Cl": "Sr.",
-      "Height": "6-0",
-      "Position": "OH",
-      "S": "89",
-      "Kills": "377",
-      "Aces": "19",
-      "Block Solos": "13",
-      "Block Assists": "30",
-      "Per Set": "4.76"
     },
     {
       "Rank": "32",
@@ -469,20 +469,6 @@
     },
     {
       "Rank": "34",
-      "Name": "Lauren Jansen",
-      "Team": "North Dakota St.",
-      "Cl": "Sr.",
-      "Height": "5-11",
-      "Position": "OH",
-      "S": "92",
-      "Kills": "387",
-      "Aces": "33",
-      "Block Solos": "2",
-      "Block Assists": "26",
-      "Per Set": "4.73"
-    },
-    {
-      "Rank": "35",
       "Name": "Gabi Martinez",
       "Team": "UC Santa Barbara",
       "Cl": "So.",
@@ -496,7 +482,7 @@
       "Per Set": "4.70"
     },
     {
-      "Rank": "36",
+      "Rank": "35",
       "Name": "Reagan Barth",
       "Team": "Ga. Southern",
       "Cl": "Sr.",
@@ -524,7 +510,7 @@
       "Per Set": "4.69"
     },
     {
-      "Rank": "38",
+      "Rank": "37",
       "Name": "Parker Duncan",
       "Team": "Arkansas",
       "Cl": "So.",
@@ -536,6 +522,20 @@
       "Block Solos": "8",
       "Block Assists": "22",
       "Per Set": "4.67"
+    },
+    {
+      "Rank": "38",
+      "Name": "Lauren Jansen",
+      "Team": "North Dakota St.",
+      "Cl": "Sr.",
+      "Height": "5-11",
+      "Position": "OH",
+      "S": "95",
+      "Kills": "395",
+      "Aces": "33",
+      "Block Solos": "2",
+      "Block Assists": "26",
+      "Per Set": "4.66"
     },
     {
       "Rank": "39",
@@ -651,6 +651,20 @@
     },
     {
       "Rank": "47",
+      "Name": "Morgan Gaerte",
+      "Team": "Kentucky",
+      "Cl": "Jr.",
+      "Height": "6-5",
+      "Position": "OH",
+      "S": "86",
+      "Kills": "342",
+      "Aces": "9",
+      "Block Solos": "4",
+      "Block Assists": "73",
+      "Per Set": "4.55"
+    },
+    {
+      "Rank": "48",
       "Name": "Kyleene Filimaua",
       "Team": "Florida St.",
       "Cl": "Sr.",
@@ -662,20 +676,6 @@
       "Block Solos": "5",
       "Block Assists": "32",
       "Per Set": "4.55"
-    },
-    {
-      "Rank": "48",
-      "Name": "Morgan Gaerte",
-      "Team": "Kentucky",
-      "Cl": "Jr.",
-      "Height": "6-5",
-      "Position": "OH",
-      "S": "83",
-      "Kills": "330",
-      "Aces": "7",
-      "Block Solos": "4",
-      "Block Assists": "72",
-      "Per Set": "4.54"
     },
     {
       "Rank": "49",
