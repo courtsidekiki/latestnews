@@ -71,6 +71,9 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **#16 Kansas @ Arizona** — 2026-11-25
     - Taylor Stanley (FR) — Kills Per Set: 5.19
     - Reese Messer — Assists Per Set: 10.86
+- **Wisconsin @ Nebraska** — 2026-11-25
+    - Bergen Reilly — Assists Per Set: 11.81
+    - Charlie Fuerbringer — Assists Per Set: 11.38
 - **Kansas St. @ #9 Arizona St.** — 2026-11-25
     - Addison Massey (FR) — Kills Per Set: 4.95
 - **Sacramento St. @ CSU Bakersfield** — 2026-11-25
@@ -110,4 +113,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-24 23:21 UTC_
+_Generated 2026-11-25 04:45 UTC_

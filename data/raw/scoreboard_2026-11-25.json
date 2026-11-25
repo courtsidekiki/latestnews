@@ -1,7 +1,7 @@
 {
-  "inputMD5Sum": "09020d26c712458fe134d59790db1162",
+  "inputMD5Sum": "b903222d46e57bee57e683e04b15494a",
   "instanceId": "d41d8cd98f00b204e9800998ecf8427e",
-  "updated_at": "2026-11-24 23:20:14",
+  "updated_at": "2026-11-25 04:45:03",
   "games": [
     {
       "game": {
@@ -737,9 +737,9 @@
         "away": {
           "score": "",
           "names": {
-            "char6": "",
-            "short": "TBA",
-            "seo": "tba",
+            "char6": "GCANYN",
+            "short": "Grand Canyon",
+            "seo": "grand-canyon",
             "full": ""
           },
           "winner": false,
@@ -749,12 +749,12 @@
           "conferences": [
             {
               "conferenceName": "",
-              "conferenceSeo": ""
+              "conferenceSeo": "mountain-west"
             }
           ]
         },
         "finalMessage": "",
-        "title": "TBA Hawaii",
+        "title": "Grand Canyon Hawaii",
         "url": "/game/6679417",
         "network": "",
         "home": {
@@ -997,6 +997,174 @@
             {
               "conferenceName": "",
               "conferenceSeo": "wcc"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "8:00 PM ET",
+        "startTimeEpoch": "1795654800",
+        "gameState": "pre",
+        "startDate": "11/25/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679340",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "WISC",
+            "short": "Wisconsin",
+            "seo": "wisconsin",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Wisconsin Nebraska",
+        "url": "/game/6679340",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "NEB",
+            "short": "Nebraska",
+            "seo": "nebraska",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-ten"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "8:00 PM ET",
+        "startTimeEpoch": "1795654800",
+        "gameState": "pre",
+        "startDate": "11/25/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679380",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "N COLO",
+            "short": "Northern Colo.",
+            "seo": "northern-colo",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-sky"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "Northern Colo. Utah Tech",
+        "url": "/game/6679380",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "UTTECH",
+            "short": "Utah Tech",
+            "seo": "utah-tech",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "big-sky"
+            }
+          ]
+        },
+        "liveVideoEnabled": false,
+        "startTime": "8:00 PM ET",
+        "startTimeEpoch": "1795654800",
+        "gameState": "pre",
+        "startDate": "11/25/2026",
+        "currentPeriod": "",
+        "contestClock": "0:00",
+        "bracketId": "",
+        "bracketRound": ""
+      }
+    },
+    {
+      "game": {
+        "gameID": "6679576",
+        "away": {
+          "score": "",
+          "names": {
+            "char6": "SDSU",
+            "short": "San Diego St.",
+            "seo": "san-diego-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
+            }
+          ]
+        },
+        "finalMessage": "",
+        "title": "San Diego St. Colorado St.",
+        "url": "/game/6679576",
+        "network": "",
+        "home": {
+          "score": "",
+          "names": {
+            "char6": "CO ST",
+            "short": "Colorado St.",
+            "seo": "colorado-st",
+            "full": ""
+          },
+          "winner": false,
+          "seed": "",
+          "description": "",
+          "rank": "",
+          "conferences": [
+            {
+              "conferenceName": "",
+              "conferenceSeo": "pac-12"
             }
           ]
         },
