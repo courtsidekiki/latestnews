@@ -1,9 +1,9 @@
 {
   "sport": "Women's Volleyball",
   "title": "Aces Per Set",
-  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
+  "updated": "Wednesday, November 25, 2026 8:11 am - Through games Tuesday, November 24, 2026",
   "page": 1,
-  "pages": 4,
+  "pages": 3,
   "data": [
     {
       "Rank": "1",
@@ -183,17 +183,6 @@
     },
     {
       "Rank": "17",
-      "Name": "Gabi Zachariasen",
-      "Team": "South Dakota",
-      "Cl": "Fr.",
-      "Height": "6-0",
-      "Position": "OH",
-      "S": "89",
-      "Aces": "46",
-      "Per Set": ".52"
-    },
-    {
-      "Rank": "18",
       "Name": "Kalina Calvillo",
       "Team": "Troy",
       "Cl": "Jr.",
@@ -204,7 +193,7 @@
       "Per Set": ".52"
     },
     {
-      "Rank": "19",
+      "Rank": "18",
       "Name": "Emma Isroff",
       "Team": "Canisius",
       "Cl": "Jr.",
@@ -215,7 +204,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "20",
+      "Rank": "19",
       "Name": "Kate Rush",
       "Team": "Western Ky.",
       "Cl": "So.",
@@ -226,7 +215,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "21",
+      "Rank": "20",
       "Name": "Ava Poinsett",
       "Team": "Yale",
       "Cl": "So.",
@@ -237,7 +226,7 @@
       "Per Set": ".51"
     },
     {
-      "Rank": "22",
+      "Rank": "21",
       "Name": "Kennedy Louisell",
       "Team": "James Madison",
       "Cl": "Sr.",
@@ -248,7 +237,7 @@
       "Per Set": ".50"
     },
     {
-      "Rank": "23",
+      "Rank": "22",
       "Name": "Addie Huber",
       "Team": "Loyola Maryland",
       "Cl": "So.",
@@ -292,7 +281,7 @@
       "Per Set": ".50"
     },
     {
-      "Rank": "27",
+      "Rank": "26",
       "Name": "Breylan Fairley",
       "Team": "N.C. Central",
       "Cl": "Fr.",
@@ -303,18 +292,18 @@
       "Per Set": ".50"
     },
     {
-      "Rank": "28",
-      "Name": "Brooklyn DeLeye",
-      "Team": "Kentucky",
-      "Cl": "Sr.",
-      "Height": "6-2",
+      "Rank": "27",
+      "Name": "Gabi Zachariasen",
+      "Team": "South Dakota",
+      "Cl": "Fr.",
+      "Height": "6-0",
       "Position": "OH",
       "S": "93",
       "Aces": "46",
       "Per Set": ".49"
     },
     {
-      "Rank": "29",
+      "Rank": "28",
       "Name": "Ines Losada",
       "Team": "Colorado",
       "Cl": "So.",
@@ -325,7 +314,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "30",
+      "Rank": "29",
       "Name": "Tekoa Barnes",
       "Team": "Oklahoma",
       "Cl": "So.",
@@ -336,7 +325,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "31",
+      "Rank": "30",
       "Name": "Maya Harris",
       "Team": "Illinois",
       "Cl": "Fr.",
@@ -347,7 +336,7 @@
       "Per Set": ".49"
     },
     {
-      "Rank": "32",
+      "Rank": "31",
       "Name": "Jeryn Hildenbrand",
       "Team": "Portland",
       "Cl": "So.",
@@ -358,7 +347,7 @@
       "Per Set": ".48"
     },
     {
-      "Rank": "33",
+      "Rank": "32",
       "Name": "Ariana Rodriguez",
       "Team": "Miami (FL)",
       "Cl": "Sr.",
@@ -369,12 +358,23 @@
       "Per Set": ".48"
     },
     {
-      "Rank": "34",
+      "Rank": "33",
       "Name": "Gabriella Burdier",
       "Team": "Central Conn. St.",
       "Cl": "So.",
       "Height": "-",
       "Position": "DS",
+      "S": "96",
+      "Aces": "46",
+      "Per Set": ".48"
+    },
+    {
+      "Rank": "-",
+      "Name": "Brooklyn DeLeye",
+      "Team": "Kentucky",
+      "Cl": "Sr.",
+      "Height": "6-2",
+      "Position": "OH",
       "S": "96",
       "Aces": "46",
       "Per Set": ".48"
@@ -418,7 +418,7 @@
       "Team": "Princeton",
       "Cl": "Sr.",
       "Height": "6-2",
-      "Position": "MB",
+      "Position": "RS",
       "S": "82",
       "Aces": "38",
       "Per Set": ".46"
@@ -546,13 +546,13 @@
     },
     {
       "Rank": "50",
-      "Name": "Panna Ratkai",
-      "Team": "Hawaii",
-      "Cl": "Sr.",
+      "Name": "Talia Emmen",
+      "Team": "N.C. Central",
+      "Cl": "Jr.",
       "Height": "5-10",
       "Position": "OH",
-      "S": "102",
-      "Aces": "45",
+      "S": "94",
+      "Aces": "41",
       "Per Set": ".44"
     }
   ]

@@ -17,42 +17,40 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 ## 👀 Players & Freshmen to Watch
 
-- **North Dakota St. @ South Dakota** — 2026-11-23
-    - Gabi Zachariasen (FR) — Aces Per Set: .52
 - **Georgia @ #11 Tennessee** — 2026-11-23
     - Kennedi Rogers — Kills Per Set: 4.96
     - Caroline Kerr — Assists Per Set: 10.95
-    - Bianna Muoneke — Kills Per Set: 5.62
+    - Bianna Muoneke — Kills Per Set: 5.61
 - **St. Thomas (MN) @ South Dakota St.** — 2026-11-23
-    - Sylvie Zgonc — Kills Per Set: 5.30
+    - Sylvie Zgonc — Kills Per Set: 5.36
 - **Morehead St. @ Lindenwood** — 2026-11-23
     - Kaci Johnson — Assists Per Set: 10.89
 - **#14 Vanderbilt @ #5 Kentucky** — 2026-11-23
-    - Brooklyn DeLeye — Kills Per Set: 5.26
-    - Kassie O'Brien — Assists Per Set: 11.95
+    - Brooklyn DeLeye — Kills Per Set: 5.27
+    - Kassie O'Brien — Assists Per Set: 11.96
     - Avery Scoggins — Assists Per Set: 11.52
 - **San Diego @ Santa Clara** — 2026-11-23
     - Macy Hinshaw — Assists Per Set: 10.82
 - **#12 Purdue @ #1 Nebraska** — 2026-11-24
-    - Bergen Reilly — Assists Per Set: 11.81
-    - Taylor Anderson — Assists Per Set: 10.85
+    - Bergen Reilly — Assists Per Set: 11.83
+    - Taylor Anderson — Assists Per Set: 10.77
 - **#2 Pittsburgh @ #24 Stanford** — 2026-11-24
-    - Logan Parks — Assists Per Set: 10.75
-    - Olivia Babcock — Kills Per Set: 6.02
-    - Izzy Starck — Assists Per Set: 10.70
+    - Logan Parks — Assists Per Set: 10.63
+    - Olivia Babcock — Kills Per Set: 6.00
+    - Izzy Starck — Assists Per Set: 10.63
 - **Belmont @ UNI** — 2026-11-24
-    - Reese Booth — Assists Per Set: 10.53
+    - Cassidy Hartman — Kills Per Set: 4.90
+    - Reese Booth — Assists Per Set: 10.66
 - **Georgia @ #5 Kentucky** — 2026-11-24
-    - Brooklyn DeLeye — Kills Per Set: 5.26
-    - Kassie O'Brien — Assists Per Set: 11.95
-    - Bianna Muoneke — Kills Per Set: 5.62
+    - Brooklyn DeLeye — Kills Per Set: 5.27
+    - Kassie O'Brien — Assists Per Set: 11.96
+    - Bianna Muoneke — Kills Per Set: 5.61
 - **South Dakota St. @ South Dakota** — 2026-11-24
-    - Gabi Zachariasen (FR) — Aces Per Set: .52
-    - Sylvie Zgonc — Kills Per Set: 5.30
+    - Sylvie Zgonc — Kills Per Set: 5.36
 - **#8 Wisconsin @ #7 Penn St.** — 2026-11-24
-    - Kennedy Martin — Kills Per Set: 5.64
-    - Alexis Stucky — Assists Per Set: 10.91
-    - Charlie Fuerbringer — Assists Per Set: 11.38
+    - Kennedy Martin — Kills Per Set: 5.70
+    - Alexis Stucky — Assists Per Set: 10.93
+    - Charlie Fuerbringer — Assists Per Set: 11.43
 - **Texas Tech @ Cincinnati** — 2026-11-25
     - Sydney Nolan — Kills Per Set: 4.99
 - **#10 BYU @ UCF** — 2026-11-25
@@ -72,8 +70,8 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Taylor Stanley (FR) — Kills Per Set: 5.19
     - Reese Messer — Assists Per Set: 10.86
 - **Wisconsin @ Nebraska** — 2026-11-25
-    - Bergen Reilly — Assists Per Set: 11.81
-    - Charlie Fuerbringer — Assists Per Set: 11.38
+    - Bergen Reilly — Assists Per Set: 11.83
+    - Charlie Fuerbringer — Assists Per Set: 11.43
 - **Kansas St. @ #9 Arizona St.** — 2026-11-25
     - Addison Massey (FR) — Kills Per Set: 4.95
 - **Sacramento St. @ CSU Bakersfield** — 2026-11-25
@@ -96,8 +94,8 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
     - Suli Davis — Kills Per Set: 5.27
     - Hannah Beauford (FR) — Assists Per Set: 10.77
 - **NC State @ #2 Pittsburgh** — 2026-11-28
-    - Olivia Babcock — Kills Per Set: 6.02
-    - Izzy Starck — Assists Per Set: 10.70
+    - Olivia Babcock — Kills Per Set: 6.00
+    - Izzy Starck — Assists Per Set: 10.63
 - **California @ Boston College** — 2026-11-28
     - Audrey Ross — Kills Per Set: 4.91
 - **High Point @ #18 Minnesota** — 2026-11-28
@@ -105,7 +103,7 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 - **#24 Stanford @ Georgia Tech** — 2026-11-28
     - Alida Bennour (FR) — Kills Per Set: 4.93
     - Alida Bennour (FR) — Aces Per Set: .54
-    - Logan Parks — Assists Per Set: 10.75
+    - Logan Parks — Assists Per Set: 10.63
 - **Saint Mary's (CA) @ Pacific** — 2026-11-28
     - Antonie Kelnárová — Aces Per Set: .60
 
@@ -113,4 +111,4 @@ _None flagged this week — check data/rivalries.json if that's unexpected._
 
 _Nothing picked up yet — honors usually post Monday evening through Tuesday, and this report refreshes automatically then. If it's still empty after Wednesday, see the FIRST RUN NOTE in fetch_weekly_report.py to tune the scraper._
 
-_Generated 2026-11-25 04:45 UTC_
+_Generated 2026-11-25 22:56 UTC_

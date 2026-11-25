@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Points Per Set",
-  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
+  "updated": "Wednesday, November 25, 2026 8:11 am - Through games Tuesday, November 24, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -12,12 +12,12 @@
       "Cl": "Sr.",
       "Height": "6-4",
       "Position": "RS",
-      "S": "83",
-      "Kills": "421",
-      "Aces": "31",
+      "S": "88",
+      "Kills": "446",
+      "Aces": "32",
       "Block Solos": "3",
-      "Block Assists": "89",
-      "Per Set": "6.02"
+      "Block Assists": "94",
+      "Per Set": "6.00"
     },
     {
       "Rank": "2",
@@ -68,12 +68,12 @@
       "Cl": "Sr.",
       "Height": "6-6",
       "Position": "RS",
-      "S": "99",
-      "Kills": "487",
-      "Aces": "26",
+      "S": "103",
+      "Kills": "514",
+      "Aces": "27",
       "Block Solos": "3",
-      "Block Assists": "85",
-      "Per Set": "5.64"
+      "Block Assists": "87",
+      "Per Set": "5.70"
     },
     {
       "Rank": "6",
@@ -82,12 +82,12 @@
       "Cl": "Sr.",
       "Height": "6-0",
       "Position": "OH",
-      "S": "113",
-      "Kills": "581",
+      "S": "116",
+      "Kills": "596",
       "Aces": "23",
-      "Block Solos": "0",
+      "Block Solos": "1",
       "Block Assists": "61",
-      "Per Set": "5.62"
+      "Per Set": "5.61"
     },
     {
       "Rank": "7",
@@ -124,12 +124,12 @@
       "Cl": "Sr.",
       "Height": "5-11",
       "Position": "OH",
-      "S": "103",
-      "Kills": "497",
+      "S": "107",
+      "Kills": "523",
       "Aces": "25",
       "Block Solos": "7",
-      "Block Assists": "34",
-      "Per Set": "5.30"
+      "Block Assists": "36",
+      "Per Set": "5.36"
     },
     {
       "Rank": "10",
@@ -152,12 +152,12 @@
       "Cl": "Sr.",
       "Height": "6-2",
       "Position": "OH",
-      "S": "93",
-      "Kills": "421",
+      "S": "96",
+      "Kills": "437",
       "Aces": "46",
       "Block Solos": "6",
-      "Block Assists": "32",
-      "Per Set": "5.26"
+      "Block Assists": "33",
+      "Per Set": "5.27"
     },
     {
       "Rank": "12",
@@ -329,6 +329,20 @@
     },
     {
       "Rank": "24",
+      "Name": "Cassidy Hartman",
+      "Team": "UNI",
+      "Cl": "Sr.",
+      "Height": "6-0",
+      "Position": "OH",
+      "S": "100",
+      "Kills": "443",
+      "Aces": "16",
+      "Block Solos": "8",
+      "Block Assists": "46",
+      "Per Set": "4.90"
+    },
+    {
+      "Rank": "25",
       "Name": "Torrey Stafford",
       "Team": "Texas",
       "Cl": "Sr.",
@@ -342,7 +356,7 @@
       "Per Set": "4.89"
     },
     {
-      "Rank": "25",
+      "Rank": "26",
       "Name": "Kaili Doctor",
       "Team": "North Florida",
       "Cl": "Sr.",
@@ -356,21 +370,21 @@
       "Per Set": "4.88"
     },
     {
-      "Rank": "26",
-      "Name": "Cassidy Hartman",
+      "Rank": "27",
+      "Name": "Lily Dykstra",
       "Team": "UNI",
       "Cl": "Sr.",
       "Height": "6-0",
       "Position": "OH",
-      "S": "97",
+      "S": "100",
       "Kills": "428",
-      "Aces": "16",
-      "Block Solos": "7",
-      "Block Assists": "45",
-      "Per Set": "4.88"
+      "Aces": "29",
+      "Block Solos": "8",
+      "Block Assists": "44",
+      "Per Set": "4.87"
     },
     {
-      "Rank": "27",
+      "Rank": "28",
       "Name": "Maria Tabacuks",
       "Team": "LMU (CA)",
       "Cl": "Fr.",
@@ -384,7 +398,7 @@
       "Per Set": "4.85"
     },
     {
-      "Rank": "28",
+      "Rank": "29",
       "Name": "Ashby Zubchevich",
       "Team": "Duke",
       "Cl": "So.",
@@ -398,7 +412,7 @@
       "Per Set": "4.84"
     },
     {
-      "Rank": "29",
+      "Rank": "30",
       "Name": "Cate Shanahan",
       "Team": "Santa Clara",
       "Cl": "Jr.",
@@ -412,7 +426,7 @@
       "Per Set": "4.82"
     },
     {
-      "Rank": "30",
+      "Rank": "31",
       "Name": "Kalista Lukovich",
       "Team": "Eastern Wash.",
       "Cl": "Sr.",
@@ -426,7 +440,7 @@
       "Per Set": "4.78"
     },
     {
-      "Rank": "31",
+      "Rank": "32",
       "Name": "Becca Kelley",
       "Team": "TCU",
       "Cl": "Jr.",
@@ -440,7 +454,7 @@
       "Per Set": "4.77"
     },
     {
-      "Rank": "32",
+      "Rank": "33",
       "Name": "Riley Rosneck",
       "Team": "Purdue Fort Wayne",
       "Cl": "Jr.",
@@ -452,20 +466,6 @@
       "Block Solos": "5",
       "Block Assists": "48",
       "Per Set": "4.74"
-    },
-    {
-      "Rank": "33",
-      "Name": "Lily Dykstra",
-      "Team": "UNI",
-      "Cl": "Sr.",
-      "Height": "6-0",
-      "Position": "OH",
-      "S": "97",
-      "Kills": "402",
-      "Aces": "28",
-      "Block Solos": "8",
-      "Block Assists": "42",
-      "Per Set": "4.73"
     },
     {
       "Rank": "34",
@@ -595,6 +595,20 @@
     },
     {
       "Rank": "43",
+      "Name": "Morgan Gaerte",
+      "Team": "Kentucky",
+      "Cl": "Jr.",
+      "Height": "6-5",
+      "Position": "OH",
+      "S": "89",
+      "Kills": "355",
+      "Aces": "13",
+      "Block Solos": "4",
+      "Block Assists": "75",
+      "Per Set": "4.60"
+    },
+    {
+      "Rank": "44",
       "Name": "Ally Cordes",
       "Team": "Samford",
       "Cl": "Sr.",
@@ -608,7 +622,7 @@
       "Per Set": "4.59"
     },
     {
-      "Rank": "44",
+      "Rank": "45",
       "Name": "Sydney Jones",
       "Team": "Houston",
       "Cl": "Jr.",
@@ -622,7 +636,7 @@
       "Per Set": "4.59"
     },
     {
-      "Rank": "45",
+      "Rank": "46",
       "Name": "Ema Petkovic",
       "Team": "UTRGV",
       "Cl": "So.",
@@ -636,7 +650,7 @@
       "Per Set": "4.58"
     },
     {
-      "Rank": "46",
+      "Rank": "47",
       "Name": "Ella Demetrician",
       "Team": "Michigan",
       "Cl": "Jr.",
@@ -650,49 +664,21 @@
       "Per Set": "4.58"
     },
     {
-      "Rank": "47",
-      "Name": "Morgan Gaerte",
-      "Team": "Kentucky",
-      "Cl": "Jr.",
-      "Height": "6-5",
-      "Position": "OH",
-      "S": "86",
-      "Kills": "342",
-      "Aces": "9",
-      "Block Solos": "4",
-      "Block Assists": "73",
-      "Per Set": "4.55"
-    },
-    {
       "Rank": "48",
       "Name": "Kyleene Filimaua",
       "Team": "Florida St.",
       "Cl": "Sr.",
       "Height": "6-1",
       "Position": "OH",
-      "S": "109",
-      "Kills": "429",
-      "Aces": "46",
+      "S": "112",
+      "Kills": "442",
+      "Aces": "47",
       "Block Solos": "5",
       "Block Assists": "32",
       "Per Set": "4.55"
     },
     {
       "Rank": "49",
-      "Name": "AC Froehlich",
-      "Team": "Oregon St.",
-      "Cl": "Sr.",
-      "Height": "6-1",
-      "Position": "OH",
-      "S": "96",
-      "Kills": "393",
-      "Aces": "21",
-      "Block Solos": "6",
-      "Block Assists": "30",
-      "Per Set": "4.53"
-    },
-    {
-      "Rank": "50",
       "Name": "Akira Burt",
       "Team": "Georgia St.",
       "Cl": "Sr.",
@@ -703,6 +689,20 @@
       "Aces": "21",
       "Block Solos": "6",
       "Block Assists": "79",
+      "Per Set": "4.53"
+    },
+    {
+      "Rank": "50",
+      "Name": "Kamryn Gibadlo",
+      "Team": "Utah",
+      "Cl": "Sr.",
+      "Height": "6-1",
+      "Position": "OH",
+      "S": "96",
+      "Kills": "374",
+      "Aces": "32",
+      "Block Solos": "6",
+      "Block Assists": "45",
       "Per Set": "4.53"
     }
   ]

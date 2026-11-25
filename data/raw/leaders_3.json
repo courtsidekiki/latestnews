@@ -1,7 +1,7 @@
 {
   "sport": "Women's Volleyball",
   "title": "Assists Per Set",
-  "updated": "Tuesday, November 24, 2026 9:11 am - Through games Monday, November 23, 2026",
+  "updated": "Wednesday, November 25, 2026 8:11 am - Through games Tuesday, November 24, 2026",
   "page": 1,
   "pages": 3,
   "data": [
@@ -12,9 +12,9 @@
       "Cl": "So.",
       "Height": "6-1",
       "Position": "S",
-      "S": "93",
-      "Assists": "1111",
-      "Per Set": "11.95"
+      "S": "96",
+      "Assists": "1148",
+      "Per Set": "11.96"
     },
     {
       "Rank": "2",
@@ -23,9 +23,9 @@
       "Cl": "Sr.",
       "Height": "6-1",
       "Position": "S",
-      "S": "85",
-      "Assists": "1004",
-      "Per Set": "11.81"
+      "S": "89",
+      "Assists": "1053",
+      "Per Set": "11.83"
     },
     {
       "Rank": "3",
@@ -56,9 +56,9 @@
       "Cl": "Jr.",
       "Height": "5-11",
       "Position": "S",
-      "S": "106",
-      "Assists": "1206",
-      "Per Set": "11.38"
+      "S": "110",
+      "Assists": "1257",
+      "Per Set": "11.43"
     },
     {
       "Rank": "6",
@@ -84,6 +84,17 @@
     },
     {
       "Rank": "8",
+      "Name": "Alexis Stucky",
+      "Team": "Penn St.",
+      "Cl": "Sr.",
+      "Height": "6-2",
+      "Position": "S",
+      "S": "101",
+      "Assists": "1104",
+      "Per Set": "10.93"
+    },
+    {
+      "Rank": "9",
       "Name": "Kelsey Schenck",
       "Team": "Lipscomb",
       "Cl": "Jr.",
@@ -92,17 +103,6 @@
       "S": "96",
       "Assists": "1049",
       "Per Set": "10.93"
-    },
-    {
-      "Rank": "9",
-      "Name": "Alexis Stucky",
-      "Team": "Penn St.",
-      "Cl": "Sr.",
-      "Height": "6-2",
-      "Position": "S",
-      "S": "97",
-      "Assists": "1058",
-      "Per Set": "10.91"
     },
     {
       "Rank": "10",
@@ -139,17 +139,6 @@
     },
     {
       "Rank": "13",
-      "Name": "Taylor Anderson",
-      "Team": "Purdue",
-      "Cl": "Sr.",
-      "Height": "6-1",
-      "Position": "S",
-      "S": "100",
-      "Assists": "1085",
-      "Per Set": "10.85"
-    },
-    {
-      "Rank": "14",
       "Name": "Macy Hinshaw",
       "Team": "Santa Clara",
       "Cl": "Jr.",
@@ -158,6 +147,17 @@
       "S": "116",
       "Assists": "1255",
       "Per Set": "10.82"
+    },
+    {
+      "Rank": "14",
+      "Name": "Taylor Anderson",
+      "Team": "Purdue",
+      "Cl": "Sr.",
+      "Height": "6-1",
+      "Position": "S",
+      "S": "104",
+      "Assists": "1120",
+      "Per Set": "10.77"
     },
     {
       "Rank": "15",
@@ -172,28 +172,6 @@
     },
     {
       "Rank": "16",
-      "Name": "Logan Parks",
-      "Team": "Stanford",
-      "Cl": "So.",
-      "Height": "6-0",
-      "Position": "S",
-      "S": "89",
-      "Assists": "957",
-      "Per Set": "10.75"
-    },
-    {
-      "Rank": "17",
-      "Name": "Izzy Starck",
-      "Team": "Pittsburgh",
-      "Cl": "Jr.",
-      "Height": "6-1",
-      "Position": "S",
-      "S": "89",
-      "Assists": "952",
-      "Per Set": "10.70"
-    },
-    {
-      "Rank": "18",
       "Name": "Marina Crownover",
       "Team": "Oregon",
       "Cl": "Sr.",
@@ -204,7 +182,7 @@
       "Per Set": "10.69"
     },
     {
-      "Rank": "19",
+      "Rank": "17",
       "Name": "Sara Toth",
       "Team": "Maryland",
       "Cl": "So.",
@@ -215,7 +193,18 @@
       "Per Set": "10.69"
     },
     {
-      "Rank": "20",
+      "Rank": "18",
+      "Name": "Reese Booth",
+      "Team": "UNI",
+      "Cl": "Jr.",
+      "Height": "5-9",
+      "Position": "S",
+      "S": "100",
+      "Assists": "1066",
+      "Per Set": "10.66"
+    },
+    {
+      "Rank": "19",
       "Name": "Taylor Parks",
       "Team": "Florida",
       "Cl": "Jr.",
@@ -226,7 +215,7 @@
       "Per Set": "10.65"
     },
     {
-      "Rank": "21",
+      "Rank": "20",
       "Name": "Allie Hazelwood",
       "Team": "Southern Miss.",
       "Cl": "Sr.",
@@ -237,7 +226,29 @@
       "Per Set": "10.63"
     },
     {
-      "Rank": "22",
+      "Rank": "21",
+      "Name": "Logan Parks",
+      "Team": "Stanford",
+      "Cl": "So.",
+      "Height": "6-0",
+      "Position": "S",
+      "S": "94",
+      "Assists": "999",
+      "Per Set": "10.63"
+    },
+    {
+      "Rank": "-",
+      "Name": "Izzy Starck",
+      "Team": "Pittsburgh",
+      "Cl": "Jr.",
+      "Height": "6-1",
+      "Position": "S",
+      "S": "94",
+      "Assists": "999",
+      "Per Set": "10.63"
+    },
+    {
+      "Rank": "23",
       "Name": "Teodora Kri\u010dkovi\u0107",
       "Team": "Indiana",
       "Cl": "So.",
@@ -246,17 +257,6 @@
       "S": "102",
       "Assists": "1076",
       "Per Set": "10.55"
-    },
-    {
-      "Rank": "23",
-      "Name": "Reese Booth",
-      "Team": "UNI",
-      "Cl": "Jr.",
-      "Height": "5-9",
-      "Position": "S",
-      "S": "97",
-      "Assists": "1021",
-      "Per Set": "10.53"
     },
     {
       "Rank": "24",
@@ -304,17 +304,6 @@
     },
     {
       "Rank": "28",
-      "Name": "Avery Van Hook",
-      "Team": "South Dakota",
-      "Cl": "Sr.",
-      "Height": "5-9",
-      "Position": "S",
-      "S": "84",
-      "Assists": "879",
-      "Per Set": "10.46"
-    },
-    {
-      "Rank": "29",
       "Name": "Nikki Quinn",
       "Team": "Duke",
       "Cl": "Sr.",
@@ -325,7 +314,7 @@
       "Per Set": "10.42"
     },
     {
-      "Rank": "30",
+      "Rank": "29",
       "Name": "Stella Swenson",
       "Team": "Minnesota",
       "Cl": "So.",
@@ -333,6 +322,17 @@
       "Position": "S",
       "S": "95",
       "Assists": "990",
+      "Per Set": "10.42"
+    },
+    {
+      "Rank": "30",
+      "Name": "Avery Van Hook",
+      "Team": "South Dakota",
+      "Cl": "Sr.",
+      "Height": "5-9",
+      "Position": "S",
+      "S": "88",
+      "Assists": "917",
       "Per Set": "10.42"
     },
     {
@@ -436,28 +436,17 @@
     },
     {
       "Rank": "40",
-      "Name": "Jackie Matias",
-      "Team": "Oregon St.",
-      "Cl": "Sr.",
-      "Height": "5-9",
+      "Name": "Erin Debiec",
+      "Team": "Colorado St.",
+      "Cl": "Jr.",
+      "Height": "6-1",
       "Position": "S",
-      "S": "96",
-      "Assists": "987",
+      "S": "94",
+      "Assists": "966",
       "Per Set": "10.28"
     },
     {
       "Rank": "41",
-      "Name": "Nerea Alvarez-Jorge",
-      "Team": "Northern Colo.",
-      "Cl": "Sr.",
-      "Height": "5-10",
-      "Position": "S",
-      "S": "118",
-      "Assists": "1212",
-      "Per Set": "10.27"
-    },
-    {
-      "Rank": "42",
       "Name": "Nayelis Cabello",
       "Team": "Louisville",
       "Cl": "Jr.",
@@ -468,18 +457,18 @@
       "Per Set": "10.25"
     },
     {
-      "Rank": "43",
-      "Name": "Erin Debiec",
-      "Team": "Colorado St.",
-      "Cl": "Jr.",
-      "Height": "6-1",
+      "Rank": "42",
+      "Name": "Jackie Matias",
+      "Team": "Oregon St.",
+      "Cl": "Sr.",
+      "Height": "5-9",
       "Position": "S",
-      "S": "91",
-      "Assists": "931",
-      "Per Set": "10.23"
+      "S": "100",
+      "Assists": "1022",
+      "Per Set": "10.22"
     },
     {
-      "Rank": "44",
+      "Rank": "43",
       "Name": "Abby Schomers",
       "Team": "UCF",
       "Cl": "Sr.",
@@ -490,18 +479,18 @@
       "Per Set": "10.20"
     },
     {
-      "Rank": "45",
+      "Rank": "44",
       "Name": "Mia Starr",
       "Team": "UC Davis",
       "Cl": "Sr.",
       "Height": "5-10",
       "Position": "S",
-      "S": "117",
-      "Assists": "1191",
+      "S": "120",
+      "Assists": "1221",
       "Per Set": "10.18"
     },
     {
-      "Rank": "46",
+      "Rank": "45",
       "Name": "Lana Rnjak",
       "Team": "UTRGV",
       "Cl": "Fr.",
@@ -512,7 +501,7 @@
       "Per Set": "10.17"
     },
     {
-      "Rank": "47",
+      "Rank": "46",
       "Name": "Anna Flores",
       "Team": "California",
       "Cl": "Fr.",
@@ -523,7 +512,7 @@
       "Per Set": "10.17"
     },
     {
-      "Rank": "48",
+      "Rank": "47",
       "Name": "Maria Drapp",
       "Team": "Bradley",
       "Cl": "Jr.",
@@ -532,6 +521,17 @@
       "S": "117",
       "Assists": "1187",
       "Per Set": "10.15"
+    },
+    {
+      "Rank": "48",
+      "Name": "Adrianna Arquette",
+      "Team": "Hawaii",
+      "Cl": "Jr.",
+      "Height": "5-10",
+      "Position": "S",
+      "S": "106",
+      "Assists": "1073",
+      "Per Set": "10.12"
     },
     {
       "Rank": "49",
